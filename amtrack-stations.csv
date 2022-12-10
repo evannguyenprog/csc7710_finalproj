@@ -1,0 +1,1016 @@
+Amtrak Station Location,Amtrak Station Code
+"Abbotsford - Bus Station, BC",ABT
+"Abbotsford-Colby - Bus Stop, WI",ABB
+"Aberdeen, MD",ABE
+"Absecon - NJ Transit Station, NJ",ABN
+"Adelanto, CA",ADE
+"Alamosa - Bus Stop, CO",AMC
+"Alanson - Bus Stop, MI",ALA
+"Albany, OR",ALY
+"Albany-Rensselaer, NY",ALB
+"Albion, MI",ALI
+"Albuquerque, NM",ABQ
+"Aldershot, ON",AST
+"Alderson, WV",ALD
+"Alexandria, VA",ALX
+"Alliance, OH",ALC
+"Alpena - Bus Stop, MI",ALM
+"Alpine, TX",ALP
+"Alton, IL",ALN
+"Altoona, PA",ALT
+"Amsterdam, NY",AMS
+"Anaheim, CA",ANA
+"Ann Arbor, MI",ARB
+"Anniston, AL",ATN
+"Antioch-Pittsburg, CA",ACA
+"Appleton, WI",APP
+"Arcata, CA",ARC
+"Ardmore, OK",ADM
+"Ardmore, PA",ARD
+"Arkadelphia, AR",ARK
+"Ashland, KY",AKY
+"Ashland, OR",AHL
+"Ashland, VA",ASD
+"Astoria - Transit Center Bus Stop, OR",ART
+"Atascadero - Bus Stop, CA",ATA
+"Atco - NJ Transit Station, NJ",ATO
+"Atlanta, GA",ATL
+"Atlantic City - NJ Transit Service, NJ",ACY
+"Auburn, CA",ARN
+"Augusta - Bus Stop, ME",AGM
+"Austin, TX",AUS
+"Baker City, OR",BAK
+"Bakersfield, CA",BFD
+"Baltimore - Penn Station, MD",BAL
+"Baltimore - BWI Thurgood Marshall Airport, MD",BWI
+"Banff - Bus Station, AB",BAF
+"Bangor, ME",BAN
+"Bangor, MI",BAM
+"Barstow, CA",BAR
+"Barstow - Bus Station, CA",BBS
+"Bath, ME",BAT
+"Baton Rouge - Bus Stop, LA",BTR
+"Battle Creek, MI",BTL
+"Bay City - Bus Stop, MI",BCY
+"Beaumont, TX",BMT
+"Beaver Dam - Bus Stop, WI",BVD
+"Belfast, ME",BFT
+"Belgrade/Bozeman - Bus Station, MT",BOZ
+"Bellingham, WA",BEL
+"Bellows Falls, VT",BLF
+"Bend - Riverhouse, OR",BDR
+"Bend - Bus Stop, OR",BND
+"Benson, AZ",BEN
+"Berkeley, CA",BKY
+"Berlin, CT",BER
+"Berlin - Ocean Pines, MD",OCP
+"Berlin, NH",BIN
+"Berlin - Montpelier, VT",MPR
+"Big Rapids, MI",BGP
+"Billings - Bus Station, MT",BLG
+"Biloxi - Bus Station, MS",BIG
+"Bingen-White Salmon, WA",BNG
+"Birmingham, AL",BHM
+"Blacksburg - Virginia Tech Bus Stop, VA",BLK
+"Bloomington-Normal, IL",BNL
+"Boise, ID",BOI
+"Boston - Back Bay, MA",BBY
+"Boston - North Station Maine Service, MA ",BON
+"Boston - South Station, MA ",BOS
+"Boston - Route 128 / Westwood, MA",RTE
+"Bradenton, FL",BDT
+"Brattleboro, VT",BRA
+"Brent - Bus Stop, AL",BRR
+"Brewster, WA",BWW
+"Bridgeport, CT",BRP
+"Brookhaven, MS",BRH
+"Brookings - Bus Stop, OR",BKO
+"Browning, MT",BRO
+"Brunswick, ME",BRK
+"Bryan, OH",BYN
+"Bryan - Bus Station, TX",BRY
+"Buellton, CA",BUL
+"Buena Vista - Bus Stop, CO",BUV
+"Buffalo - Exchange St., NY",BFX
+"Buffalo - Depew, NY",BUF
+"Burbank - Airport, CA",BUR
+"Burke - Burke Centre, VA",BCV
+"Burlington, IA",BRL
+"Burlington, NC",BNC
+"Burns, OR",BNS
+"Butte - Bus Station, MT",BUT
+"Burlington, VT",ESX
+"Colby, WI",ABB
+"Cabazon - Bus Stop, CA",CBZ
+"Cadillac, MI",CLC
+"Calgary - Bus Station, AB",CGY
+"Camarillo, CA",CML
+"Cambridge, MD",CDE
+"Camden - Bus Stop, AL",CMD
+"Camden, SC",CAM
+"Camden-Rockport, ME",CDN
+"Camp Verde, AZ",CVD
+"Cannon Beach, OR",CBO
+"Carbondale, IL",CDL
+"Carlinville, IL",CRV
+"Carlsbad - Village, CA",CBV
+"Carlsbad - Poinsettia, CA",POI
+"Carmel, CA",CRM
+"Carpinteria, CA",CPN
+"Cary, NC",CYN
+"Cashmere, WA",CSW
+"Castleton, VT",CNV
+"Cave Junction - Bus Stop, OR",CVJ
+"Centralia, IL",CEN
+"Centralia, WA",CTL
+"Champaign-Urbana, IL",CHM
+"Charleston, SC",CHS
+"Charleston, WV",CHW
+"Charlevoix - Bus Stop, MI",CHL
+"Charlotte, NC",CLT
+"Charlottesville, VA",CVS
+"Chatsworth, CA",CWT
+"Cheboygan - Bus Stop, MI",CHB
+"Chemult, OR",CMO
+"Cherry Hill - NJ Transit Station, NJ",CRH
+"Chewelah - Bus Stop, WA",CWL
+"Cheyenne - Bus Stop, WY",CHD
+"Chicago - Union Station, IL",CHI
+"Chico, CA",CIC
+"Chilliwack - Bus Station, BC",CWK
+"Chippewa Falls - Bus Stop, WI",CHP
+"Cincinnati - Greyhound Bus Station, OH",CIG
+"Cincinnati, OH",CIN
+"Claremont, CA",CLM
+"Claremont, NH",CLA
+"Clarksville - Bus Station, TN",CRK
+"Cleburne, TX",CBR
+"Clemson, SC",CSN
+"Cleveland, OH",CLE
+"Clifton Forge, VA",CLF
+"Cloverdale, CA",CLV
+"Coarsegold - Bus Stop, CA",CGD
+"Coatesville, PA",COT
+"Colfax, CA",COX
+"Colfax, WA",CFX
+"Colorado Springs, CO",COS
+"Columbia, SC",CLB
+"Columbus - Bus Station, OH",COL
+"Columbus, WI",CBS
+"Colville - Bus Stop, WA",CVL
+"Concord, NH",CNH
+"Connellsville, PA",COV
+"Connersville, IN",COI
+"Conway, NH",CAY
+"Coos Bay, OR",CBY
+"Coquitlam - Bus Station, BC",COQ
+"Corcoran, CA",COC
+"Cornwells Heights, PA",CWH
+"Corvallis, OR",CVI
+"Crater Lake - Bus Station, OR",CLK
+"Crawfordsville - Bus, IN",CRB
+"Crawfordsville, IN",CRF
+"Crescent City - Bus Stop, CA",CRC
+"Creston, IA",CRN
+"Croton-Harmon, NY",CRT
+"Culpeper, VA",CLP
+"Cumberland - Allegany College Bus Stop, MD",CUA
+"Cumberland, MD",CUM
+"Cut Bank, MT",CUT
+"Clearwater, FL",STP
+"Depew, NY",BUF
+"Dade City, FL",DDE
+"Dallas - Bus Station, TX",DAG
+"Dallas, TX",DAL
+"Damariscotta, ME",DAM
+"Danville, IL",DVI
+"Danville, VA",DAN
+"Davenport, IA",DVP
+"Davis, CA",DAV
+"Daytona Beach, FL",DYA
+"Dearborn, MI",DER
+"Deer Park - Bus Stop, WA",DPK
+"Deerfield Beach, FL",DFB
+"Del Rio, TX",DRT
+"Deland, FL",DLD
+"Delray Beach, FL",DLB
+"Deming, NM",DEM
+"Denmark, SC",DNK
+"Denver - Bus Station, CO",DEB
+"Denver, CO",DEN
+"Detroit, MI",DET
+"Detroit Lakes, MN",DLK
+"Devils Lake, ND",DVL
+"Dillon, SC",DIL
+"Dodge City, KS",DDG
+"Dover, DE",DVR
+"Dover, NH",DOV
+"Dowagiac, MI",DOA
+"Downingtown, PA",DOW
+"Du Quoin, IL",DQN
+"Dublin-Pleasanton, CA",DBP
+"Duluth - Bus Station, MN",DUL
+"Duluth - U of Minn Bus Stop, MN",DUU
+"Dunkirk, NY",DUK
+"Dunsmuir, CA",DUN
+"Durand, MI",DRD
+"Durham, NC",DNC
+"Durham, NH",DHM
+"Dwight, IL",DWT
+"Dyer, IN",DYE
+"Denair, CA",TRK
+"East Glacier Park, MT ",GPK
+"East Lansing, MI",LNS
+"Easton - Airport, MD",ESN
+"Eau Claire - University of Wisconsin Bus Stop, WI",EUC
+"Eau Claire - Bus Stop, WI",EUM
+"Edmonds, WA",EDM
+"Effingham, IL",EFG
+"Egg Harbor City - NJ Transit Station, NJ",EGH
+"El Paso - Bus Station, TX",ELB
+"El Paso, TX",ELP
+"El Portal - Yosemite View Lodge Bus Stop, CA",EPL
+"El Segundo - Bus Stop, CA",ESG
+"Elizabethtown, PA",ELT
+"Elk Grove - Bus Stop, CA",EKG
+"Elkhart, IN",EKH
+"Elko, NV",ELK
+"Elsie, OR",ELS
+"Elyria, OH",ELY
+"Emeryville, CA",EMY
+"Encinitas, CA",ENC
+"Ephrata, WA",EPH
+"Ephrata - Bus Stop, WA",EPR
+"Erie, PA",ERI
+"Escanaba - Bus Stop, MI",EMI
+"Essex, MT",ESM
+"Essex Junction, VT",ESX
+"Eugene - Bus Station, OR",EUB
+"Eugene, OR",EUG
+"Eugene - University of Oregon Bus Stop, OR",EUO
+"Eureka, CA",EKA
+"Evanston - Bus Stop, WY",EVY
+"Evansville - Bus Station, IN",EVN
+"Everett, WA",EVR
+"Exeter, NH",EXR
+"Exton, PA",EXT
+"Fargo, ND",FAR
+"Fayetteville, NC",FAY
+"Fillmore, CA",FIL
+"Fish Camp - Tenaya Lodge at Yosemite Bus Stop, CA",FSH
+"Flagstaff - Greyhound Bus Station, AZ",FGG
+"Flagstaff, AZ",FLG
+"Flint, MI",FLN
+"Florence, OR",FRO
+"Florence, SC",FLO
+"Fond Du Lac, WI",FDL
+"Fort Collins - Bus Stop, CO",FCC
+"Fort Edward-Glens Falls, NY",FED
+"Fort Hood, TX",FHD
+"Fort Lauderdale, FL",FTL
+"Fort Madison, IA",FMD
+"Fort Morgan, CO",FMG
+"Fort Myers, FL",FTM
+"Fort Worth, TX",FTW
+"Fortuna, CA",FTA
+"Foxwoods Casino, CT",FOX
+"Framingham, MA",FRA
+"Fraser, CO",WIP
+"Frederick, MD",FRC
+"Frederick - Airport Bus Stop, MD",FRR
+"Fredericksburg, VA",FBG
+"Fredonia, NY",FDN
+"Freeport, ME",FRE
+"Fremont, CA",FMT
+"Fremont - Bus Station, CA",FRT
+"Fresno, CA",FNO
+"Frisco, CO",FSC
+"Frostburg - Frostburg St. Univ. Bus Stop, MD",FSB
+"Fullerton, CA",FUL
+"Fulton, KY",FTN
+"Glens Falls, NY",FED
+"Gainesville - Bus Stop, FL",GNF
+"Gainesville, GA",GNS
+"Gainesville, TX",GLE
+"Galesburg, IL",GBB
+"Gallup, NM",GLP
+"Galveston, TX",GLS
+"Garberville, CA",GBV
+"Garden City, KS",GCK
+"Garibaldi Highlands, BC",GBC
+"Gastonia, NC",GAS
+"Gearhart, OR",GHT
+"Gilman, IL",GLM
+"Gilroy, CA",GLY
+"Glasgow, MT",GGW
+"Glendale, CA",GDL
+"Glendive - Bus Stop, MT",GLD
+"Glenview, IL",GLN
+"Glenwood Springs, CO",GSC
+"Gold Hill - Bus Stop, OR",GHL
+"Golden - Bus Stop, BC",GDN
+"Goldsboro - Bus Stop, NC",GBO
+"Goleta, CA",GTA
+"Goshen Junction, CA",GSN
+"Granby, CO",GRA
+"Grand Canyon Natl Park - Bus Stop, AZ",GCB
+"Grand Canyon Natl Park, AZ",GCN
+"Grand Forks, ND",GFK
+"Grand Junction, CO",GJT
+"Grand Rapids, MI",GRR
+"Grangeville, ID",GVI
+"Grants Pass - Bus Stop, OR",GTP
+"Grantsville - Bus Stop, MD",GTV
+"Grasonville - Kent Island Bus Stop, MD",KNT
+"Green Bay - Bus Stop, WI",GBY
+"Green River, UT",GRI
+"Greenfield, MA",GFD
+"Greensboro, NC",GRO
+"Greensburg, PA",GNB
+"Greenville - Bus Stop, NC",GRN
+"Greenville, SC",GRV
+"Greenwood, MS",GWD
+"Grimsby, ON",GMS
+"Grove Hill - Bus Stop, AL",GVH
+"Grover Beach, CA",GVB
+"Guadalupe-Santa Maria, CA",GUA
+"Gulfport - Bus Stop, MS",GUG
+"Gunnison - Western State University Bus Stop, CO",GNW
+"Gunnison - Downtown Bus Stop, CO",GUN
+"Hagerstown - Bus Stop, MD",HAG
+"Hamlet, NC",HAM
+"Hammond, LA",HMD
+"Hammond-Whiting, IN",HMI
+"Hammonton - NJ Transit Station, NJ",HTN
+"Hancock - Bus Stop, MD",HNK
+"Hancock - Bus Stop, MI",HKM
+"Hanford, CA",HNF
+"Harpers Ferry, WV",HFY
+"Harrisburg, PA",HAR
+"Hartford, CT",HFD
+"Hastings, NE",HAS
+"Hatch, NM",HCH
+"Hattiesburg, MS",HBG
+"Hattiesburg - Bus Stop, MS",HBI
+"Havelock - Bus Stop, NC",HVL
+"Haverhill, MA",HHL
+"Havre, MT",HAV
+"Hayward, CA",HAY
+"Hazlehurst, MS",HAZ
+"Healdsburg, CA",HEA
+"Helper, UT",HER
+"Hemet - West side-Coco's, CA",HET
+"Hemet, CA",HMT
+"Hermann, MO",HEM
+"High Point, NC",HPT
+"Hinckley - Bus Stop, MN",HKL
+"Hinton, WV",HIN
+"Holdrege, NE",HLD
+"Holland, MI",HOM
+"Hollywood, FL",HOL
+"Holyoke, MA",HLK
+"Homewood, IL",HMW
+"Hood River - Bus Stop, OR",HOO
+"Hope, AR",HOP
+"Hope - Bus Stop, BC",HPE
+"Houghton - Bus Stop, MI",HGH
+"Houston - Greyhound Bus Station, TX",HOG
+"Houston, TX",HOS
+"Howard City, MI",HWC
+"Hudson, NY",HUD
+"Hudson - Bus Stop, WI",HDS
+"Huntingdon, PA",HGD
+"Huntington, WV",HUN
+"Hutchinson, KS",HUT
+"Independence, MO",IDP
+"Indianapolis, IN",IND
+"Indio, CA",IDO
+"Irvine, CA",IRV
+"Iselin, NJ",MET
+"Jackson - Bus Stop, AL",JAA
+"Jackson, MI",JXN
+"Jackson, MS",JAN
+"Jacksonville, FL",JAX
+"Jacksonville - Bus Station, NC",JNC
+"Jamestown, NY",JMN
+"Janesville - Bus Service, WI",JVL
+"Jefferson City, MO",JEF
+"Jesup, GA",JSP
+"Johnstown, PA",JST
+"Joliet, IL",JOL
+"June Lake, CA",JNL
+"Kalamazoo, MI",KAL
+"Kamloops - Bus Station, BC",KAM
+"Kankakee, IL",KKI
+"Kannapolis, NC",KAN
+"Kansas City, MO",KCY
+"Kelowna - Bus Station, BC",KWN
+"Kelso-Longview, WA",KEL
+"Kettle Falls - Bus Stop, WA",KTF
+"Kettleman City, CA",KTC
+"Kewanee, IL",KEE
+"Killeen, TX",KIL
+"King City, CA",KGC
+"Kingman - Greyhound Bus, AZ",KGG
+"Kingman, AZ",KNG
+"Kings Canyon National Park - Bus Stop, CA",KGY
+"Kingsley - Bus Station, MI",KGS
+"Kingston, RI",KIN
+"Kingstree, SC",KTR
+"Kinston - Bus Stop, NC",KNC
+"Kirkwood, MO",KWD
+"Kissimmee, FL",KIS
+"Klamath Falls, OR",KFS
+"Longview, WA",KEL
+"L'Anse - Bus Stop, MI",LAN
+"La Crescenta, CA",LCA
+"La Crosse, WI",LSE
+"La Grande, OR",LAE
+"La Grange Road, IL",LAG
+"La Junta, CO",LAJ
+"La Pine, OR",LPN
+"La Plata, MO",LAP
+"La Quinta - Bus Stop, CA",LQT
+"Lady Lake - The Villages Bus Stop, FL",TVF
+"Lafayette, IN",LAF
+"Lafayette, LA",LFT
+"Lake Charles, LA",LCH
+"Lake Louise - Bus Stop, AB",LKO
+"Lake Placid, NY",LPD
+"Lakeland - Departure 92 North Arrival 91 South, FL To/From Points North",LAK
+"Lakeland - Departure 91 North Arrival 92 South, FL To/From Points South",LKL
+"Lamar, CO",LMR
+"Lamy, NM",LMY
+"Lancaster, CA",LCS
+"Lancaster, PA",LNC
+"Langley - Bus Station, BC",LGL
+"Lapeer, MI",LPE
+"Laramie - Bus Stop, WY",LRY
+"Las Cruces - Bus Stop, NM",LCR
+"Las Vegas, NM No Casino Resorts",LSV
+"Las Vegas - McCarran Intl. Airport Bus Stop, NV",LAS
+"Las Vegas - Greyhound Bus Station, NV",LVS
+"Las Vegas - South Strip Transfer Bus Terminal, NV",LVT
+"Lathrop-Manteca - ACE Station, CA",LTM
+"Latrobe, PA",LAB
+"Laughlin, NV",LNV
+"Laurel, MS",LAU
+"Lawrence, KS",LRC
+"Laytonville, CA",LTV
+"Leavenworth - Bus Stop, WA",LEV
+"Leavenworth, WA",LWA
+"Lee Vining, CA",LVN
+"Lees Summit, MO",LEE
+"Leggett, CA",LEG
+"Lemoore, CA",LMC
+"Lemoore - Bus Stop, CA",LMN
+"Lewiston, ID",LWN
+"Lewistown, PA",LEW
+"Libby, MT",LIB
+"Lincoln, IL",LCN
+"Lincoln, NE",LNK
+"Lincoln, NH",LNN
+"Lincolnville, ME",LCV
+"Lindenwold - NJ Transit Station, NJ",LDW
+"Little Rock, AR",LRK
+"Littlerock, CA",LTR
+"Littleton, NH",LTL
+"Livermore - Transit Center ACE Station, CA",LIV
+"Livermore - Vasco Rd ACE Station, CA",VAS
+"Livingston - Bus Stop, MT",LVG
+"Lodi, CA",LOD
+"Lompoc, CA",LOM
+"London - Bus Station, ON",LOB
+"Long Beach - Transit Gallery Bus Stop, CA",LBC
+"Longview, TX",LVW
+"Loon Lake - Bus Stop, WA",LLK
+"Lordsburg, NM",LDB
+"Lorton - Auto Train Only, VA Auto Train Only",LOR
+"Los Angeles - Union Station, CA",LAX
+"Los Angeles - Westwood (UCLA) - Bus Stop, CA",WES
+"Louisville - Greyhound Bus Station, KY",LVL
+"Lynchburg, VA",LYH
+"Lacey, WA",OLW
+"Lompoc, CA",LPS
+"Montpelier - Berlin, VT",MPR
+"Manteca, CA",LTM
+"Mackinaw City, MI",MAK
+"Macomb, IL",MAC
+"Madera, CA",MDR
+"Madison - University of Wisconsin Bus Stop, WI",MSN
+"Madison - Madison - South, WI",SMD
+"Madisonville - Bus Stop, KY",MDV
+"Malta, MT",MAL
+"Malvern, AR",MVN
+"Mammoth Lakes, CA",MMK
+"Manassas, VA",MSS
+"Manchester, NH",MHT
+"Manitowoc - Bus Stop, WI",MTC
+"Manning, OR",MNI
+"Manton - Bus Station, MI",MTO
+"Maricopa, AZ",MRC
+"Marinette - Bus Stop, WI",MWI
+"Marion - Bus Stop, AL",MAA
+"Marion - Bus Stop, IL",MAI
+"Mariposa - Midtown Bus Stop, CA",MRM
+"Mariposa, CA",MRP
+"Marquette - Bus Stop, MI",MQT
+"Marshall, TX",MHL
+"Martinez, CA",MTZ
+"Martinsburg, WV",MRB
+"Marysville, CA",MRV
+"Mattoon, IL",MAT
+"Maysville, KY",MAY
+"McCall, ID",MCA
+"McComb, MS",MCB
+"McCook, NE",MCK
+"McGregor, TX",MCG
+"McKinleyville, CA",MKV
+"Medford - RVTD Transit Ctr, OR",MFR
+"Memphis, TN",MEM
+"Mendota, IL",MDT
+"Menomonie - Bus Stop, WI",MNM
+"Merced, CA",MCD
+"Meriden, CT",MDN
+"Meridian, MS",MEI
+"Merritt - Bus Station, BC",MRR
+"Mesquite - Bus Station, TX",MSQ
+"Metropark-Iselin, NJ",MET
+"Miami, FL",MIA
+"Michigan City, IN",MCI
+"Middletown, PA",MID
+"Midpines, CA",MDP
+"Miles City - Bus Stop, MT",MLS
+"Milwaukee - Airport, WI",MKA
+"Milwaukee, WI",MKE
+"Mineola, TX",MIN
+"Minot, ND",MOT
+"Minot - Bus Station, ND",MTB
+"Missoula - Greyhound Bus Station, MT",MLA
+"Mobile - Bus Station, AL",MOG
+"Modesto, CA",MOD
+"Mojave, CA",MOJ
+"Moline, IL",MLI
+"Monroe - Bus Stop (Eastbound), WA",MEE
+"Monroe - Bus Stop (Westbound), WA",MEW
+"Monterey, CA",MRY
+"Monterey - Hyatt, CA",MYH
+"Monterey - Marriot, CA",MYM
+"Monterey - Chevron Gas Station Bus Stop, CA",MYT
+"Monterey Bay - Monterey Bay Aquarium, CA",MYA
+"Montgomery - Bus Station, AL",MGM
+"Montgomery, WV",MNG
+"Montreal, QC",MTR
+"Moorpark, CA",MPK
+"Morehead City - Bus Stop, NC",MHD
+"Moreno Valley, CA",MOV
+"Morgan Hill, CA",MHC
+"Moscow, ID",MOC
+"Moses Lake, WA",MLK
+"Mount Joy, PA",MJY
+"Mount Pleasant, IA",MTP
+"Mount Vernon, WA",MVW
+"Mt. Vernon - Bus Stop, AL",MTV
+"Mt. Vernon - Bus Stop, IL",MVI
+"Mystic, CT",MYS
+"Minneapolis - St. Paul, MN",MSP
+"Normal, IL",BNL
+"Nacogdoches, TX",NCG
+"Nampa, ID",NAM
+"Napa - Vine Transit Bus Stop, CA",NAP
+"Naperville, IL",NPV
+"Nashua - Bus Stop, NH",NSH
+"Nashville - Bus Station, TN",NVL
+"Necanicum Jct., OR",NCM
+"Needles, CA",NDL
+"New Bern - Bus Stop, NC",NBR
+"New Brunswick, NJ",NBK
+"New Buffalo, MI",NBU
+"New Carrollton, MD",NCR
+"New Haven, CT",NHV
+"New Iberia, LA",NIB
+"New London, CT",NLC
+"New Orleans, LA",NOL
+"New Rochelle, NY",NRO
+"New York - Penn Station, NY",NYP
+"Newark, DE",NRK
+"Newark - International Airport, NJ",EWR
+"Newark, NJ",NWK
+"Newbern, TN",NBN
+"Newburyport - Bus Stop, MA",NBT
+"Newport, OR",NPO
+"Newport News, VA",NPN
+"Newton, KS",NEW
+"Niagara Falls, NY",NFL
+"Niagara Falls, ON",NFS
+"Niles, MI",NLS
+"Norfolk, VA",NFK
+"Norman, OK",NOR
+"North Conway - Bus Stop, NH",NCW
+"North Philadelphia, PA",PHN
+"Northampton, MA",NHT
+"North Palm Springs, CA",PSN
+"Newhall, CA",NHL
+"Oakhurst - Bus Stop, CA",OAH
+"Oakland - Coliseum Airport, CA",OAC
+"Oakland - Jack London Sq, CA",OKJ
+"Oakville, ON",OKL
+"Ocala, FL",OCA
+"Ocean City, MD",OCM
+"Oceanside, CA",OSD
+"Oconto - Bus Stop, WI",OCO
+"Ogden, UT",OGD
+"Okanagan, WA",OGW
+"Okeechobee, FL",OKE
+"Oklahoma City, OK",OKC
+"Old Orchard Beach, ME ",ORB
+"Old Saybrook, CT",OSB
+"Olympia-Lacey, WA",OLW
+"Omaha, NE",OMA
+"Omak, WA",OMW
+"Ontario, CA",ONA
+"Ontario, OR",ONT
+"Oregon City, OR",ORC
+"Orlando, FL",ORL
+"Orono, ME",ORO
+"Oroville, CA",ORV
+"Osceola, IA",OSC
+"Oshkosh, WI",OSH
+"Oshkosh - Univ. of WI Bus Stop, WI",OSU
+"Ottumwa, IA",OTM
+"Owosso - Bus Stop, MI",OWO
+"Oxnard, CA",OXN
+"Old Town, CA",OLT
+"Pittsburg, CA",ACA
+"Pleasanton, CA",DBP
+"Paducah - Bus Station, KY",PAD
+"Palatka, FL",PAK
+"Palm Desert - Bus Stop, CA",PDC
+"Palm Springs - North, CA",PSN
+"Palm Springs - Airport Bus Stop, CA",PSP
+"Palm Springs - Downtown Bus Stop, CA",PSS
+"Palmdale, CA",PMD
+"Paoli, PA",PAO
+"Parkesburg, PA",PAR
+"Pasadena, CA",PAS
+"Pasco, WA",PSC
+"Paso Robles, CA",PRB
+"Pateros, WA",PTE
+"Pauls Valley, OK",PVL
+"Pellston, MI",PST
+"Pemberton, BC",PBT
+"Pendleton, OR",PEN
+"Pennsauken - NJ Transit Service, NJ",PNK
+"Peoria - Bus Station, IL",PIA
+"Peoria - Bradley University Bus Stop, IL",PIU
+"Perris, CA",PRI
+"Petaluma, CA",PTC
+"Petersburg, VA",PTB
+"Petoskey, MI",PSK
+"Philadelphia - 30th Street Station, PA",PHL
+"Phoenix - Sky Harbor Airport, AZ",PHA
+"Phoenix - Greyhound Station, AZ",PHG
+"Phoenix - Metro Center, AZ",PXN
+"Picayune, MS",PIC
+"Pine - Pine Junction Bus Stop, CO",PJT
+"Pittsburgh, PA",PGH
+"Pittsfield, MA",PIT
+"Placerville, CA",PCV
+"Plano, IL",PLO
+"Plattsburgh, NY",PLB
+"Pleasanton - ACE Station, CA",PLS
+"Plymouth, NH",PMO
+"Pomona, CA",POS
+"Poncha Springs - Bus Stop, CO",PSG
+"Pontiac, IL",PON
+"Pontiac, MI",PNT
+"Poplar Bluff, MO",PBF
+"Port Charlotte, FL",PCH
+"Port Henry, NY",POH
+"Port Huron, MI",PTH
+"Port Kent, NY",PRK
+"Portage, WI",POG
+"Portland, ME",POR
+"Portland - Greyhound Bus Station, OR",PDG
+"Portland - Union Station, OR",PDX
+"Portsmouth - Bus Stop, NH",PTS
+"Poughkeepsie, NY",POU
+"Prairie View - Bus Stop, TX",PVW
+"Prince, WV",PRC
+"Princeton, IL",PCT
+"Princeton Junction, NJ",PJC
+"Providence, RI",PVD
+"Provo, UT",PRO
+"Prunedale - Salinas Bus Stop, CA",PDL
+"Pueblo, CO",PUB
+"Pullman, WA",PUL
+"Purcell, OK",PUR
+"Pinellas Park, FL",STP
+"Quantico, VA",QAN
+"Quincy, IL",QCY
+"Quincy, WA",QUC
+"Rensselaer, NY",ALB
+"Rockport, ME",CDN
+"Raleigh, NC",RGH
+"Randolph, VT",RPH
+"Rantoul, IL",RTL
+"Raton, NM",RAT
+"Rawlins - Bus Stop, WY",RWY
+"Red Bluff, CA",RBF
+"Red Wing, MN",RDW
+"Redding, CA",RDD
+"Redding - RABA Bus Station, CA",RDR
+"Redmond - Airport, OR",RDM
+"Reed City, MI",REE
+"Reedsport, OR",RPT
+"Reno, NV",RNO
+"Rensselaer, IN",REN
+"Rhinecliff, NY",RHI
+"Richmond, BC",RBC
+"Richmond, CA",RIC
+"Richmond - Main Street Station, VA",RVM
+"Richmond - Staples Mill Rd, VA",RVR
+"Rio Dell-Scotia, CA",RDS
+"Rio Vista - Bus Stop, CA",RVT
+"Ritzville, WA",RTZ
+"Riverside, CA",RIV
+"Roanoke - Civic Center Bus Stop, VA",RNK
+"Rochester, NY",ROC
+"Rock Island - Bus Stop, IL",RKI
+"Rock Springs - Greyhound Bus Station, WY",RSY
+"Rockford, IL",RCK
+"Rockford, MI",RKF
+"Rockland, ME",ROD
+"Rocklin, CA",RLN
+"Rockville, MD",RKV
+"Rocky Mount, NC",RMT
+"Rohnert Park, CA",RPC
+"Rome, NY",ROM
+"Roseville, CA",RSV
+"Rouses Point, NY",RSP
+"Royal Oak, MI",ROY
+"Rugby, ND",RUG
+"Rutland, VT",RUD
+"Springfield, OR",EUG
+"Salinas-Prunedale, CA",PDL
+"Scotia, CA",RDS
+"Saco, ME",SAO
+"Sacramento, CA",SAC
+"Sacramento - State Capitol Bus Drop-Off, CA ",SCS
+"Saginaw - Bus Stop, MI",SGW
+"Salem, OR",SLM
+"Salida - Bus Stop, CO",SLD
+"Salinas - MST Transit Center, CA",SNR
+"Salinas, CA",SNS
+"Salisbury - BayRunner Shuttle, MD",SLS
+"Salisbury - Greyhound Bus Station, MD",SLY
+"Salisbury, NC",SAL
+"Salt Lake City - Greyhound Bus Station, UT",SLB
+"Salt Lake City, UT",SLC
+"San Antonio, TX",SAS
+"San Bernardino, CA",SNB
+"San Clemente, CA",SNP
+"San Diego - Old Town, CA",OLT
+"San Diego, CA",SAN
+"San Diego - Sorrento Valley, CA",SRB
+"San Francisco - Transbay Temp Terminal, CA",SFC
+"San Francisco - Financial District, CA",SFF
+"San Francisco - Moscone Center, CA",SFM
+"San Francisco - Caltrain Station, CA",SFP
+"San Francisco - Shopping Center, CA",SFS
+"San Francisco - Civic Center, CA",SFV
+"San Francisco - Fisherman's Wharf, CA ",SFW
+"San Jose, CA",SJC
+"San Juan Capistrano, CA",SNC
+"San Luis Obispo, CA",SLO
+"San Luis Obispo - Cal Poly, CA",SLP
+"San Marcos, TX",SMC
+"San Pedro, CA",SPD
+"San Pedro - Bus Stop, CA",SPO
+"Sanderson, TX",SND
+"Sandpoint, ID",SPT
+"Sandusky, OH",SKY
+"Sanford - Auto Train Only, FL ",SFA
+"Santa Ana, CA",SNA
+"Santa Barbara, CA",SBA
+"Santa Clara - Great America, CA",GAC
+"Santa Clara, CA",SCC
+"Santa Clarita - Newhall, CA",NHL
+"Santa Cruz, CA",SCZ
+"Santa Fe, NM",SAF
+"Santa Maria, CA",SAT
+"Santa Paula, CA",SAP
+"Santa Rosa, CA",SRC
+"Sarasota, FL",SRA
+"Saratoga Springs, NY",SAR
+"Sault Sainte Marie - Bus Stop, MI",SMI
+"Savannah, GA",SAV
+"Schenectady, NY",SDY
+"Schriever, LA",SCH
+"Scotts Valley, CA",SVY
+"Scranton - Bus Station, PA",SRN
+"Searsport, ME",SRT
+"Seaside, CA",SES
+"Seaside, OR",SSD
+"Seattle - King Street Station, WA",SEA
+"Seattle - Ferry Pier 69, WA",SVF
+"Sebring, FL",SBG
+"Sedalia, MO",SED
+"Sedona - Sedona Ctr Uptown Bus Stop, AZ",SDC
+"Selma - Bus Station, AL",SLA
+"Selma-Smithfield, NC",SSM
+"Smithfield, NC",SSM
+"Shawano - Bus Stop, WI",SHW
+"Sheboygan - Bus Stop, WI",SHB
+"Shelby, MT",SBY
+"Shreveport - Bus Station, LA",SHG
+"Shreveport - Airport Bus Stop, LA",SHR
+"Sidney - Bus Stop, MT",SIY
+"Simi Valley, CA",SIM
+"Sisters - Bus Stop, OR",STO
+"Skykomish - Bus Stop (Eastbound), WA",SKE
+"Skykomish - Bus Stop (Westbound), WA",SKW
+"Slidell, LA",SDL
+"Smith River - Bus Stop, CA",SMR
+"Solana Beach, CA",SOL
+"Solvang, CA",SLV
+"South Beloit, IL",BET
+"South Bend, IN",SOB
+"South Lake Tahoe, CA",SLT
+"South Portsmouth, KY",SPM
+"South Shore, KY",SPM
+"Southern Pines, NC",SOP
+"Sparks - Bus Station, NV",SPX
+"Spartanburg, SC",SPB
+"Spokane, WA",SPK
+"Springfield, IL",SPI
+"Springfield, MA",SPG
+"Squamish, BC",SQA
+"St. Albans, VT",SAB
+"St. Catharines, ON",SCA
+"St. Cloud, MN",SCD
+"St. George, UT",STG
+"St. Ignace, MI",STI
+"St. Joseph, MI",SJM
+"St. Lambert, QC",SLQ
+"St. Louis, MO",STL
+"St. Paul - Minneapolis, MN",MSP
+"St. Petersburg - Clearwater, FL",STP
+"Stamford, CT",STM
+"Stanley, ND",STN
+"Stanley - Bus Stop, WI",SNY
+"Stanwood, WA",STW
+"Staples, MN",SPL
+"Stateline - Transit Center, CA",SLH
+"Stateline - Kingsbury Bus Stop, NV",SLN
+"Staunton, VA",STA
+"Stevens Pass, WA",SSW
+"Stevens Point - Bus Stop, WI",SVP
+"Stevens Point - Univ. of WI Bus Stop, WI",SVU
+"Stockton, CA",SKN
+"Stockton - ACE Station, CA",SKT
+"Sturtevant, WI",SVT
+"Suisun-Fairfield, CA",SUI
+"Summit, IL",SMT
+"Sun City - Bus Stop, CA",SUT
+"Sunriver, OR",SUN
+"Surf, CA",LPS
+"Surrey, BC",SUY
+"Syracuse, NY",SYR
+"Tacoma, WA",TAC
+"Tampa, FL",TPA
+"Tawas City - Bus Stop, MI",TWC
+"Taylor, TX",TAY
+"Tehachapi, CA",TEH
+"Temple, TX",TPL
+"Texarkana, AR",TXA
+"The Dalles, OR",THD
+"Thomasville - Bus Stop, AL",THM
+"Thurmond, WV",THN
+"Ticonderoga, NY",FTC
+"Tilton, NH",TLT
+"Toccoa, GA",TCA
+"Toledo, OH",TOL
+"Toledo, OR",TDO
+"Tomah, WI",TOH
+"Topeka, KS",TOP
+"Toronto - Bus Station, ON",TCT
+"Toronto - Union Station, ON",TWO
+"Torrance - Bus Stop, CA",TOA
+"Tracy - Bus Stop, CA",TRA
+"Tracy - ACE Station, CA",TRC
+"Traverse City, MI",TRV
+"Trenton, NJ",TRE
+"Trinidad, CO",TRI
+"Trotwood - Dayton - Bus Station, OH",DAT
+"Troy, MI",TRM
+"Truckee, CA",TRU
+"Tucson, AZ",TUS
+"Tukwila, WA",TUK
+"Turlock-Denair, CA",TRK
+"Tusayan, AZ",TSY
+"Tuscaloosa, AL",TCL
+"Twin Falls, ID",TFI
+"Tyler - Bus Station, TX",TYL
+"Tyrone, PA",TYR
+"Urbana, IL",CHM
+"Ukiah, CA",UKH
+"Utica, NY",UCA
+"Villages Bus Stop, FL",TVF
+"Vail, CO",VAI
+"Vale, OR",VAE
+"Vallejo - City Stop, CA",VAL
+"Vallejo - Marine World Bus Stop, CA",VMW
+"Van Nuys, CA",VNC
+"Vancouver - Pacific Central Station Canada, BC",VAC
+"Vancouver - USA, WA",VAN
+"Ventura, CA",VEC
+"Vicksburg - Bus Station, MS",VKS
+"Victoria, BC",VBC
+"Victoria - Harbour Ferry Pier, BC",VIF
+"Victorville - Bus Stop, CA",VRB
+"Victorville, CA",VRV
+"Vienna - Bus Stop, IL",VNA
+"Virginia Beach, VA",VAB
+"Visalia, CA",VIS
+"White Salmon, WA",BNG
+"Westwood - Route 128, MA",RTE
+"Whiting, IN",HMI
+"Waco - Bus Stop, TX",WCX
+"Waldo, FL",WDO
+"Waldoboro, ME",WDR
+"Walla Walla - Bus Stop, WA",WWA
+"Wallingford, CT",WFD
+"Walnut Ridge, AR",WNR
+"Warrensburg, MO",WAR
+"Warrenton, OR",WNT
+"Wasco, CA",WAC
+"Washington - Union Station, DC",WAS
+"Washington, MO",WAH
+"Waterbury-Stowe, VT",WAB
+"Waterloo, IN",WTI
+"Waupaca - Bus Stop, WI",WAU
+"Waupun - Bus Stop, WI",WPN
+"Wausau - Transit Center, WI",WSJ
+"Wausau - Bus Stop, WI",WSU
+"Wells, ME",WEM
+"Wenatchee, WA",WEN
+"West Glacier, MT",WGL
+"West Palm Beach, FL",WPB
+"Westbank - Bus Station, BC",WEB
+"Westchester - Bus Stop, CA",WCH
+"Westerly, RI",WLY
+"Westfield - Bus Stop, WI",WSF
+"Westport, NY",WSP
+"Whistler Village - Bus Stop, BC",WSL
+"White City, OR",WCT
+"White Haven - Bus Stop, PA",WHV
+"White River Junction, VT",WRJ
+"White Sulphur Springs, WV",WSS
+"Whitefish, MT",WFH
+"Whitehall, NY",WHL
+"Wildwood, FL",WWD
+"Wilkes-Barre - Bus Station, PA",WKB
+"Williams, AZ",WMA
+"Williams Junction, AZ",WMJ
+"Williamsburg, VA",WBG
+"Williston, ND",WTN
+"Willits, CA",WTS
+"Wilmington, DE",WIL
+"Wilmington - Bus Station, NC",WMN
+"Wilson, NC",WLN
+"Windsor, CT",WND
+"Windsor - Bus Station, ON",WNO
+"Windsor, VT",WNM
+"Windsor Locks, CT",WNL
+"Winnemucca, NV",WNN
+"Winona, MN",WIN
+"Winslow, AZ",WLO
+"Winston-Salem - State University, NC",UWS
+"Winston-Salem - City Transfer Ctr., NC",WNS
+"Winter Haven, FL",WTH
+"Winter Park, FL",WPK
+"Wiscasset, ME",WST
+"Wisconsin Dells, WI",WDL
+"Wisconsin Rapids - Bus Stop, WI",WIR
+"Wishram, WA",WIH
+"Wittenberg - Bus Stop, WI",WIT
+"Woburn, MA",WOB
+"Wolf Point, MT",WPT
+"Woodbridge, VA",WDB
+"Woodburn - Bus Station, OR",WBN
+"Worcester, MA",WOR
+"Yosemite - Yosemite View Lodge Bus Stop, CA",EPL
+"Yosemite - Tenaya Lodge Bus Stop, CA",FSH
+"Yazoo City, MS",YAZ
+"Yemassee, SC",YEM
+"Yonkers, NY",YNY
+"Yosemite - Ahwahnee Hotel Bus Stop, CA",YOA
+"Yosemite - Curry Village Bus Stop, CA",YOC
+"Yosemite - Crane Flat Bus Stop, CA",YOF
+"Yosemite - Wawona Hotel Bus Stop, CA",YOH
+"Yosemite - Lodge Bus Stop, CA",YOS
+"Yosemite - Tuolumne Meadow Bus Stop, CA",YOT
+"Yosemite - Visitor Center Bus Stop, CA",YOV
+"Yosemite - White Wolf Bus Stop, CA",YOW
+"Yuma, AZ",YUM
