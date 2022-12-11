@@ -2,8 +2,17 @@ import random
 import json
 import os
 import numpy as np
+from datetime import date
 from faker import Faker #pip install Faker
 fake = Faker()
+
+
+today = date.today()
+
+def returnPrice():
+    decimal = round(np.random.random(), 2)
+    price = np.random.choice(50) + decimal
+    return price
 
 departure_times = ['6:00', '6:30', '7:00', '7:30', '8:00', '8:30', '9:00', '9:30', '10:00']
 
@@ -57,8 +66,9 @@ for x in range(200):
                    "Departure Time": random.choice(departure_times) + "am", #+ current_meridiem, 
                    "Arrival Time": random.choice(arrival_times) + "pm", #+ exception_meridiem,
                    "Day": random.choice(day),
-                   "Date": np.random.choice(31),
-                   "Month": np.random.choice(month),})
+                   "Date": str(np.random.choice(31)),
+                   "Month": np.random.choice(month),
+                   "Cost": "$" + str(returnPrice())})
 json.dump(bookings_dict, out_file, indent = 4)
 out_file.close()
 print(bookings_dict)
@@ -81,3 +91,23 @@ print(bookings_dict)
 # print(user_list)
 # json.dump(user_list, user_file, indent=4)
 # user_file.close()
+
+purchased_rides = []
+
+purchased_file = open("purchased_rides.json", "w+")
+purchased_rides.append({"Name": "Evan",
+                  "Date": str(today),
+                  "RideID": "001",
+                  "Price": "50.00",
+                  "TicketID": "001"})
+# for x in range(10):
+#     temp_first_name = random.choice(first_names)
+#     temp_last_name = random.choice(last_names)
+#     user_list.append({"Username": temp_first_name+temp_last_name,
+#                       "Password": fake.password(),
+#                       "First_Name": temp_first_name,
+#                       "Last_Name": temp_last_name,
+#                       "Email": temp_first_name+temp_last_name+"@"+random.choice(email_domain)})
+print(purchased_rides)
+json.dump(purchased_rides, purchased_file, indent=4)
+purchased_file.close()

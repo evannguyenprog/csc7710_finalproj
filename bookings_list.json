@@ -1,1802 +1,2002 @@
 [
     {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "9:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Tuesday",
-        "Date": 30,
-        "Month": "June"
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "7:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Friday",
+        "Date": "9",
+        "Month": "April",
+        "Cost": "$15.55"
     },
     {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "8:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Monday",
+        "Date": "28",
+        "Month": "March",
+        "Cost": "$24.77"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
         "Departure Time": "8:30am",
-        "Arrival Time": "10:00pm",
-        "Day": "Friday",
-        "Date": 7,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "6:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Wednesday",
-        "Date": 12,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "8:00am",
-        "Arrival Time": "10:00pm",
-        "Day": "Friday",
-        "Date": 11,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "10:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Thursday",
-        "Date": 7,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "7:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Thursday",
-        "Date": 20,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "10:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Thursday",
-        "Date": 21,
-        "Month": "Feburary"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "8:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Tuesday",
-        "Date": 6,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "10:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Tuesday",
-        "Date": 14,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "9:30am",
-        "Arrival Time": "8:00pm",
-        "Day": "Tuesday",
-        "Date": 15,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "6:30am",
-        "Arrival Time": "6:00pm",
-        "Day": "Monday",
-        "Date": 8,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "7:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Thursday",
-        "Date": 22,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "7:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Thursday",
-        "Date": 1,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "8:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Tuesday",
-        "Date": 3,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "8:00am",
         "Arrival Time": "7:30pm",
-        "Day": "Thursday",
-        "Date": 17,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "7:00am",
-        "Arrival Time": "10:00pm",
-        "Day": "Friday",
-        "Date": 24,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "9:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Thursday",
-        "Date": 27,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "7:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Monday",
-        "Date": 23,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "7:00am",
-        "Arrival Time": "7:00pm",
         "Day": "Tuesday",
-        "Date": 23,
-        "Month": "Feburary"
+        "Date": "4",
+        "Month": "November",
+        "Cost": "$24.32"
     },
     {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Claremont, NH\",CLA",
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "8:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Thursday",
+        "Date": "26",
+        "Month": "January",
+        "Cost": "$23.74"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "10:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Wednesday",
+        "Date": "20",
+        "Month": "July",
+        "Cost": "$4.15"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
         "Departure Time": "7:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Monday",
-        "Date": 19,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "8:30am",
-        "Arrival Time": "10:00pm",
-        "Day": "Tuesday",
-        "Date": 21,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "9:30am",
         "Arrival Time": "9:30pm",
-        "Day": "Friday",
-        "Date": 1,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "10:00am",
-        "Arrival Time": "8:00pm",
         "Day": "Monday",
-        "Date": 8,
-        "Month": "April"
+        "Date": "22",
+        "Month": "August",
+        "Cost": "$36.39"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "9:00am",
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "7:30am",
         "Arrival Time": "8:30pm",
-        "Day": "Friday",
-        "Date": 23,
-        "Month": "December"
+        "Day": "Wednesday",
+        "Date": "30",
+        "Month": "April",
+        "Cost": "$22.52"
     },
     {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Glasgow, MT\",GGW",
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "7:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Tuesday",
+        "Date": "0",
+        "Month": "March",
+        "Cost": "$17.34"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "6:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Tuesday",
+        "Date": "1",
+        "Month": "September",
+        "Cost": "$30.78"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
         "Departure Time": "10:00am",
         "Arrival Time": "8:00pm",
-        "Day": "Tuesday",
-        "Date": 7,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "8:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Friday",
-        "Date": 23,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "8:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Tuesday",
-        "Date": 8,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "10:00am",
-        "Arrival Time": "7:30pm",
-        "Day": "Friday",
-        "Date": 25,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "6:30am",
-        "Arrival Time": "9:00pm",
         "Day": "Thursday",
-        "Date": 23,
-        "Month": "May"
+        "Date": "10",
+        "Month": "March",
+        "Cost": "$2.2800000000000002"
     },
     {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "10:00am",
-        "Arrival Time": "10:00pm",
-        "Day": "Friday",
-        "Date": 25,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "10:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Wednesday",
-        "Date": 15,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Glasgow, MT\",GGW",
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Johnstown, PA\",JST",
         "Departure Time": "6:30am",
         "Arrival Time": "9:30pm",
         "Day": "Friday",
-        "Date": 30,
-        "Month": "July"
+        "Date": "13",
+        "Month": "August",
+        "Cost": "$42.01"
     },
     {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Glasgow, MT\",GGW",
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
         "Departure Time": "8:30am",
-        "Arrival Time": "10:00pm",
-        "Day": "Friday",
-        "Date": 10,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "9:30am",
-        "Arrival Time": "8:00pm",
-        "Day": "Friday",
-        "Date": 17,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "8:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Tuesday",
-        "Date": 17,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "9:00am",
-        "Arrival Time": "10:00pm",
-        "Day": "Thursday",
-        "Date": 28,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "7:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Tuesday",
-        "Date": 3,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "9:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Friday",
-        "Date": 29,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "7:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Friday",
-        "Date": 14,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "7:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Tuesday",
-        "Date": 25,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "8:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Wednesday",
-        "Date": 8,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "10:00am",
         "Arrival Time": "6:00pm",
-        "Day": "Tuesday",
-        "Date": 24,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "7:30am",
-        "Arrival Time": "8:00pm",
         "Day": "Friday",
-        "Date": 4,
-        "Month": "March"
+        "Date": "19",
+        "Month": "June",
+        "Cost": "$3.85"
     },
     {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "9:30am",
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "7:00am",
         "Arrival Time": "8:30pm",
-        "Day": "Wednesday",
-        "Date": 20,
-        "Month": "October"
+        "Day": "Friday",
+        "Date": "21",
+        "Month": "November",
+        "Cost": "$22.33"
     },
     {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "6:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Tuesday",
-        "Date": 6,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "8:30am",
-        "Arrival Time": "10:00pm",
-        "Day": "Tuesday",
-        "Date": 8,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
         "Departure Time": "8:00am",
         "Arrival Time": "6:00pm",
-        "Day": "Thursday",
-        "Date": 22,
-        "Month": "Feburary"
+        "Day": "Friday",
+        "Date": "27",
+        "Month": "Feburary",
+        "Cost": "$6.07"
     },
     {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
         "Departure Time": "7:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Tuesday",
+        "Date": "13",
+        "Month": "May",
+        "Cost": "$20.54"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "9:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Friday",
+        "Date": "10",
+        "Month": "October",
+        "Cost": "$41.57"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "10:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Thursday",
+        "Date": "2",
+        "Month": "March",
+        "Cost": "$5.75"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "6:00am",
         "Arrival Time": "9:00pm",
         "Day": "Tuesday",
-        "Date": 11,
-        "Month": "December"
+        "Date": "1",
+        "Month": "December",
+        "Cost": "$34.72"
     },
     {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "6:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Tuesday",
+        "Date": "3",
+        "Month": "November",
+        "Cost": "$46.1"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "10:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Friday",
+        "Date": "27",
+        "Month": "November",
+        "Cost": "$38.06"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "9:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Friday",
+        "Date": "15",
+        "Month": "December",
+        "Cost": "$41.45"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "8:30am",
+        "Arrival Time": "9:00pm",
+        "Day": "Tuesday",
+        "Date": "1",
+        "Month": "October",
+        "Cost": "$8.44"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "7:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Friday",
+        "Date": "19",
+        "Month": "August",
+        "Cost": "$13.8"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
         "Departure Time": "9:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Wednesday",
+        "Date": "21",
+        "Month": "November",
+        "Cost": "$8.99"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "8:00am",
         "Arrival Time": "7:00pm",
         "Day": "Wednesday",
-        "Date": 2,
-        "Month": "December"
+        "Date": "28",
+        "Month": "August",
+        "Cost": "$34.52"
     },
     {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Carbondale, IL\",CDL",
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
         "Departure Time": "6:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Friday",
-        "Date": 8,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "7:30am",
         "Arrival Time": "9:30pm",
-        "Day": "Wednesday",
-        "Date": 24,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "9:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Tuesday",
-        "Date": 4,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "9:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Tuesday",
-        "Date": 30,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "6:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Wednesday",
-        "Date": 25,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "10:00am",
-        "Arrival Time": "7:30pm",
-        "Day": "Friday",
-        "Date": 10,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "10:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Wednesday",
-        "Date": 18,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "6:00am",
-        "Arrival Time": "7:00pm",
         "Day": "Monday",
-        "Date": 26,
-        "Month": "July"
+        "Date": "30",
+        "Month": "August",
+        "Cost": "$44.38"
     },
     {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "10:00am",
-        "Arrival Time": "10:00pm",
-        "Day": "Friday",
-        "Date": 9,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "7:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Monday",
-        "Date": 3,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "9:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Monday",
-        "Date": 10,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "9:30am",
-        "Arrival Time": "7:30pm",
-        "Day": "Tuesday",
-        "Date": 5,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "10:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Wednesday",
-        "Date": 23,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "8:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Monday",
-        "Date": 22,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "8:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Wednesday",
-        "Date": 21,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "8:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Friday",
-        "Date": 29,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "9:30am",
-        "Arrival Time": "7:30pm",
-        "Day": "Tuesday",
-        "Date": 6,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "7:30am",
-        "Arrival Time": "7:30pm",
-        "Day": "Wednesday",
-        "Date": 21,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "8:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Monday",
-        "Date": 16,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "8:30am",
-        "Arrival Time": "10:00pm",
-        "Day": "Tuesday",
-        "Date": 10,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "7:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Thursday",
-        "Date": 12,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "8:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Tuesday",
-        "Date": 4,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "8:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Wednesday",
-        "Date": 0,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "9:30am",
-        "Arrival Time": "10:00pm",
-        "Day": "Friday",
-        "Date": 30,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Norfolk, VA\",NFK",
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
         "Departure Time": "9:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Monday",
-        "Date": 25,
-        "Month": "May"
+        "Arrival Time": "9:00pm",
+        "Day": "Tuesday",
+        "Date": "22",
+        "Month": "March",
+        "Cost": "$22.74"
     },
     {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "8:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Monday",
+        "Date": "18",
+        "Month": "September",
+        "Cost": "$18.96"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "10:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Wednesday",
+        "Date": "5",
+        "Month": "December",
+        "Cost": "$4.16"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "8:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Wednesday",
+        "Date": "30",
+        "Month": "May",
+        "Cost": "$47.54"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "9:00am",
+        "Arrival Time": "6:00pm",
+        "Day": "Monday",
+        "Date": "26",
+        "Month": "July",
+        "Cost": "$6.41"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "9:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Monday",
+        "Date": "26",
+        "Month": "April",
+        "Cost": "$0.11"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "9:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Monday",
+        "Date": "23",
+        "Month": "December",
+        "Cost": "$15.59"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "6:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Monday",
+        "Date": "24",
+        "Month": "June",
+        "Cost": "$35.02"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "9:00am",
+        "Arrival Time": "10:00pm",
+        "Day": "Monday",
+        "Date": "22",
+        "Month": "January",
+        "Cost": "$45.92"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
         "Departure Time": "7:00am",
         "Arrival Time": "6:30pm",
-        "Day": "Friday",
-        "Date": 22,
-        "Month": "May"
+        "Day": "Monday",
+        "Date": "5",
+        "Month": "January",
+        "Cost": "$27.11"
     },
     {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "7:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Monday",
+        "Date": "6",
+        "Month": "September",
+        "Cost": "$18.86"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "10:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Monday",
+        "Date": "25",
+        "Month": "December",
+        "Cost": "$35.31"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
         "Departure Time": "8:00am",
         "Arrival Time": "6:00pm",
         "Day": "Monday",
-        "Date": 12,
-        "Month": "June"
+        "Date": "18",
+        "Month": "August",
+        "Cost": "$30.38"
     },
     {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "6:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Tuesday",
-        "Date": 28,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "9:30am",
-        "Arrival Time": "8:00pm",
-        "Day": "Wednesday",
-        "Date": 30,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "10:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Friday",
-        "Date": 17,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "8:30am",
-        "Arrival Time": "6:00pm",
-        "Day": "Wednesday",
-        "Date": 21,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "10:00am",
-        "Arrival Time": "6:00pm",
-        "Day": "Tuesday",
-        "Date": 12,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "8:30am",
-        "Arrival Time": "8:30pm",
-        "Day": "Tuesday",
-        "Date": 24,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "9:00am",
-        "Arrival Time": "6:00pm",
-        "Day": "Wednesday",
-        "Date": 12,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Norfolk, VA\",NFK",
+        "Origin Station": "\"Summit, IL\",SMT",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
         "Departure Time": "7:30am",
-        "Arrival Time": "6:00pm",
-        "Day": "Wednesday",
-        "Date": 2,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "6:00am",
-        "Arrival Time": "6:00pm",
-        "Day": "Friday",
-        "Date": 14,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "10:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Wednesday",
-        "Date": 19,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "8:30am",
-        "Arrival Time": "8:30pm",
-        "Day": "Friday",
-        "Date": 16,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "8:30am",
         "Arrival Time": "8:00pm",
-        "Day": "Tuesday",
-        "Date": 30,
-        "Month": "October"
+        "Day": "Friday",
+        "Date": "30",
+        "Month": "October",
+        "Cost": "$40.39"
     },
     {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Glasgow, MT\",GGW",
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
         "Departure Time": "9:00am",
         "Arrival Time": "9:30pm",
-        "Day": "Tuesday",
-        "Date": 4,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "7:30am",
-        "Arrival Time": "6:30pm",
         "Day": "Monday",
-        "Date": 20,
-        "Month": "September"
+        "Date": "27",
+        "Month": "January",
+        "Cost": "$40.9"
     },
     {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "7:00am",
-        "Arrival Time": "9:30pm",
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "7:30am",
+        "Arrival Time": "8:00pm",
         "Day": "Friday",
-        "Date": 23,
-        "Month": "October"
+        "Date": "27",
+        "Month": "May",
+        "Cost": "$4.99"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "9:30am",
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "7:00am",
         "Arrival Time": "8:30pm",
-        "Day": "Friday",
-        "Date": 1,
-        "Month": "June"
+        "Day": "Tuesday",
+        "Date": "13",
+        "Month": "November",
+        "Cost": "$37.07"
     },
     {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "9:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Thursday",
+        "Date": "10",
+        "Month": "November",
+        "Cost": "$38.06"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Solvang, CA\",SLV",
         "Departure Time": "7:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Tuesday",
-        "Date": 26,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "8:30am",
-        "Arrival Time": "6:00pm",
-        "Day": "Friday",
-        "Date": 17,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "9:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Wednesday",
-        "Date": 16,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "9:30am",
-        "Arrival Time": "9:30pm",
-        "Day": "Wednesday",
-        "Date": 16,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "8:30am",
-        "Arrival Time": "9:30pm",
-        "Day": "Wednesday",
-        "Date": 4,
-        "Month": "Feburary"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "9:30am",
-        "Arrival Time": "6:00pm",
+        "Arrival Time": "8:30pm",
         "Day": "Monday",
-        "Date": 26,
-        "Month": "November"
+        "Date": "19",
+        "Month": "March",
+        "Cost": "$49.12"
     },
     {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "6:00am",
-        "Arrival Time": "6:00pm",
-        "Day": "Tuesday",
-        "Date": 10,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "9:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Tuesday",
-        "Date": 5,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "7:00am",
-        "Arrival Time": "6:00pm",
-        "Day": "Monday",
-        "Date": 24,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Glasgow, MT\",GGW",
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
         "Departure Time": "8:30am",
         "Arrival Time": "7:00pm",
         "Day": "Thursday",
-        "Date": 11,
-        "Month": "April"
+        "Date": "25",
+        "Month": "May",
+        "Cost": "$15.13"
     },
     {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "9:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Monday",
-        "Date": 18,
-        "Month": "October"
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "10:00am",
+        "Arrival Time": "6:00pm",
+        "Day": "Tuesday",
+        "Date": "1",
+        "Month": "January",
+        "Cost": "$2.35"
     },
     {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "6:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Thursday",
-        "Date": 7,
-        "Month": "April"
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "10:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Wednesday",
+        "Date": "28",
+        "Month": "July",
+        "Cost": "$37.36"
     },
     {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
         "Departure Time": "8:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Wednesday",
-        "Date": 11,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "8:30am",
-        "Arrival Time": "8:00pm",
-        "Day": "Thursday",
-        "Date": 28,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "8:30am",
         "Arrival Time": "7:00pm",
         "Day": "Wednesday",
-        "Date": 12,
-        "Month": "March"
+        "Date": "27",
+        "Month": "August",
+        "Cost": "$43.79"
     },
     {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "9:00am",
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "10:00am",
         "Arrival Time": "10:00pm",
         "Day": "Thursday",
-        "Date": 30,
-        "Month": "October"
+        "Date": "13",
+        "Month": "December",
+        "Cost": "$2.2"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
         "Departure Time": "6:00am",
-        "Arrival Time": "6:00pm",
-        "Day": "Wednesday",
-        "Date": 19,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "10:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Thursday",
-        "Date": 16,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "7:00am",
         "Arrival Time": "9:30pm",
-        "Day": "Thursday",
-        "Date": 20,
-        "Month": "August"
+        "Day": "Friday",
+        "Date": "18",
+        "Month": "September",
+        "Cost": "$33.03"
     },
     {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "6:00am",
-        "Arrival Time": "7:30pm",
-        "Day": "Thursday",
-        "Date": 10,
-        "Month": "June"
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "8:30am",
+        "Arrival Time": "8:00pm",
+        "Day": "Wednesday",
+        "Date": "22",
+        "Month": "June",
+        "Cost": "$35.27"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "9:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Tuesday",
-        "Date": 19,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
         "Departure Time": "8:30am",
         "Arrival Time": "7:30pm",
-        "Day": "Monday",
-        "Date": 18,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "10:00am",
-        "Arrival Time": "6:00pm",
-        "Day": "Friday",
-        "Date": 26,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "6:30am",
-        "Arrival Time": "10:00pm",
-        "Day": "Monday",
-        "Date": 6,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "9:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Thursday",
-        "Date": 4,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "9:30am",
-        "Arrival Time": "6:00pm",
-        "Day": "Tuesday",
-        "Date": 29,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "6:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Tuesday",
-        "Date": 7,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "9:00am",
-        "Arrival Time": "6:30pm",
         "Day": "Wednesday",
-        "Date": 27,
-        "Month": "September"
+        "Date": "24",
+        "Month": "March",
+        "Cost": "$25.77"
     },
     {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
         "Departure Time": "8:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Wednesday",
-        "Date": 14,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "8:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Monday",
-        "Date": 29,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "6:30am",
-        "Arrival Time": "8:30pm",
-        "Day": "Thursday",
-        "Date": 4,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "6:00am",
         "Arrival Time": "9:30pm",
-        "Day": "Tuesday",
-        "Date": 23,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "8:30am",
-        "Arrival Time": "8:30pm",
         "Day": "Thursday",
-        "Date": 24,
-        "Month": "December"
+        "Date": "25",
+        "Month": "April",
+        "Cost": "$36.53"
     },
     {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "6:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Wednesday",
-        "Date": 2,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "7:30am",
-        "Arrival Time": "8:00pm",
-        "Day": "Friday",
-        "Date": 9,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
         "Departure Time": "8:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Wednesday",
-        "Date": 12,
-        "Month": "Feburary"
+        "Arrival Time": "6:30pm",
+        "Day": "Friday",
+        "Date": "14",
+        "Month": "April",
+        "Cost": "$0.32"
     },
     {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "6:00am",
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "10:00am",
         "Arrival Time": "9:00pm",
-        "Day": "Wednesday",
-        "Date": 29,
-        "Month": "January"
+        "Day": "Tuesday",
+        "Date": "30",
+        "Month": "June",
+        "Cost": "$33.55"
     },
     {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "7:30am",
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "8:00am",
         "Arrival Time": "10:00pm",
         "Day": "Friday",
-        "Date": 1,
-        "Month": "June"
+        "Date": "3",
+        "Month": "March",
+        "Cost": "$39.27"
     },
     {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Claremont, NH\",CLA",
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "8:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Friday",
+        "Date": "13",
+        "Month": "January",
+        "Cost": "$45.95"
+    },
+    {
+        "Origin Station": "\"Summit, IL\",SMT",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
         "Departure Time": "6:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Thursday",
-        "Date": 10,
-        "Month": "May"
+        "Arrival Time": "7:30pm",
+        "Day": "Tuesday",
+        "Date": "10",
+        "Month": "July",
+        "Cost": "$48.41"
     },
     {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "10:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Thursday",
-        "Date": 24,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Carbondale, IL\",CDL",
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
         "Departure Time": "6:30am",
         "Arrival Time": "6:00pm",
-        "Day": "Tuesday",
-        "Date": 1,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "8:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Thursday",
-        "Date": 7,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "8:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Friday",
-        "Date": 28,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "8:00am",
-        "Arrival Time": "6:00pm",
         "Day": "Monday",
-        "Date": 7,
-        "Month": "April"
+        "Date": "16",
+        "Month": "April",
+        "Cost": "$37.34"
     },
     {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "6:00am",
-        "Arrival Time": "8:30pm",
-        "Day": "Friday",
-        "Date": 26,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "10:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Monday",
-        "Date": 29,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "6:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Friday",
-        "Date": 30,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Claremont, NH\",CLA",
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
         "Departure Time": "7:30am",
-        "Arrival Time": "9:30pm",
-        "Day": "Wednesday",
-        "Date": 5,
-        "Month": "January"
+        "Arrival Time": "7:30pm",
+        "Day": "Thursday",
+        "Date": "23",
+        "Month": "August",
+        "Cost": "$20.9"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "9:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Tuesday",
-        "Date": 6,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Claremont, NH\",CLA",
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
         "Departure Time": "6:30am",
         "Arrival Time": "7:30pm",
         "Day": "Friday",
-        "Date": 30,
-        "Month": "June"
+        "Date": "26",
+        "Month": "June",
+        "Cost": "$8.44"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "7:30am",
-        "Arrival Time": "9:30pm",
-        "Day": "Tuesday",
-        "Date": 20,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
+        "Origin Station": "\"Summit, IL\",SMT",
+        "Destination Station": "\"Johnstown, PA\",JST",
         "Departure Time": "9:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Friday",
-        "Date": 20,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "8:30am",
         "Arrival Time": "9:00pm",
-        "Day": "Friday",
-        "Date": 23,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "9:30am",
-        "Arrival Time": "6:00pm",
-        "Day": "Thursday",
-        "Date": 6,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "8:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Thursday",
-        "Date": 4,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "8:00am",
-        "Arrival Time": "10:00pm",
-        "Day": "Wednesday",
-        "Date": 13,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "10:00am",
-        "Arrival Time": "6:30pm",
         "Day": "Tuesday",
-        "Date": 0,
-        "Month": "October"
+        "Date": "1",
+        "Month": "September",
+        "Cost": "$30.45"
     },
     {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "7:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Monday",
-        "Date": 16,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "10:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Thursday",
-        "Date": 23,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "9:30am",
-        "Arrival Time": "8:00pm",
-        "Day": "Tuesday",
-        "Date": 9,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
         "Departure Time": "9:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Thursday",
-        "Date": 9,
-        "Month": "July"
+        "Arrival Time": "6:00pm",
+        "Day": "Tuesday",
+        "Date": "13",
+        "Month": "June",
+        "Cost": "$48.52"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "9:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Thursday",
-        "Date": 17,
-        "Month": "Feburary"
-    },
-    {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "7:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Friday",
-        "Date": 26,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Departure Time": "9:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Monday",
-        "Date": 3,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Claremont, NH\",CLA",
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
         "Departure Time": "6:00am",
         "Arrival Time": "7:00pm",
-        "Day": "Tuesday",
-        "Date": 10,
-        "Month": "September"
+        "Day": "Wednesday",
+        "Date": "24",
+        "Month": "January",
+        "Cost": "$13.12"
     },
     {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "9:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Monday",
-        "Date": 26,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "9:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Friday",
-        "Date": 5,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "6:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Thursday",
-        "Date": 2,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "7:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Friday",
-        "Date": 18,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Norfolk, VA\",NFK",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
         "Departure Time": "9:30am",
-        "Arrival Time": "8:00pm",
-        "Day": "Wednesday",
-        "Date": 24,
-        "Month": "October"
+        "Arrival Time": "7:00pm",
+        "Day": "Tuesday",
+        "Date": "4",
+        "Month": "January",
+        "Cost": "$24.33"
     },
     {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "10:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Wednesday",
+        "Date": "5",
+        "Month": "September",
+        "Cost": "$15.7"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "9:30am",
+        "Arrival Time": "10:00pm",
+        "Day": "Friday",
+        "Date": "17",
+        "Month": "September",
+        "Cost": "$8.44"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Solvang, CA\",SLV",
         "Departure Time": "8:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Thursday",
+        "Date": "19",
+        "Month": "October",
+        "Cost": "$33.67"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "6:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Wednesday",
+        "Date": "8",
+        "Month": "May",
+        "Cost": "$33.07"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "6:30am",
+        "Arrival Time": "6:00pm",
+        "Day": "Wednesday",
+        "Date": "0",
+        "Month": "October",
+        "Cost": "$14.22"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "7:30am",
+        "Arrival Time": "6:00pm",
+        "Day": "Friday",
+        "Date": "16",
+        "Month": "November",
+        "Cost": "$48.23"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "7:30am",
+        "Arrival Time": "7:30pm",
+        "Day": "Monday",
+        "Date": "13",
+        "Month": "May",
+        "Cost": "$23.33"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "7:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Monday",
+        "Date": "18",
+        "Month": "November",
+        "Cost": "$33.46"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "9:30am",
+        "Arrival Time": "8:30pm",
+        "Day": "Monday",
+        "Date": "17",
+        "Month": "July",
+        "Cost": "$10.49"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "7:30am",
+        "Arrival Time": "10:00pm",
+        "Day": "Tuesday",
+        "Date": "3",
+        "Month": "March",
+        "Cost": "$22.75"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "7:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Thursday",
+        "Date": "24",
+        "Month": "March",
+        "Cost": "$9.26"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "9:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Friday",
+        "Date": "24",
+        "Month": "August",
+        "Cost": "$47.7"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "6:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Wednesday",
+        "Date": "11",
+        "Month": "October",
+        "Cost": "$37.67"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "8:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Monday",
+        "Date": "7",
+        "Month": "Feburary",
+        "Cost": "$40.06"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "6:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Wednesday",
+        "Date": "6",
+        "Month": "October",
+        "Cost": "$12.47"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "8:30am",
         "Arrival Time": "6:00pm",
         "Day": "Monday",
-        "Date": 23,
-        "Month": "March"
+        "Date": "14",
+        "Month": "November",
+        "Cost": "$12.02"
     },
     {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "8:00am",
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "7:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Friday",
+        "Date": "18",
+        "Month": "June",
+        "Cost": "$14.08"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "7:30am",
+        "Arrival Time": "8:00pm",
+        "Day": "Friday",
+        "Date": "9",
+        "Month": "October",
+        "Cost": "$48.54"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "9:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Thursday",
+        "Date": "17",
+        "Month": "January",
+        "Cost": "$16.58"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "10:00am",
+        "Arrival Time": "10:00pm",
+        "Day": "Thursday",
+        "Date": "25",
+        "Month": "Feburary",
+        "Cost": "$18.02"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "7:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Tuesday",
+        "Date": "28",
+        "Month": "March",
+        "Cost": "$13.4"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "9:30am",
         "Arrival Time": "6:00pm",
         "Day": "Tuesday",
-        "Date": 8,
-        "Month": "Feburary"
+        "Date": "25",
+        "Month": "January",
+        "Cost": "$28.07"
     },
     {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "7:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Wednesday",
-        "Date": 12,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "7:00am",
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "9:30am",
         "Arrival Time": "7:30pm",
         "Day": "Thursday",
-        "Date": 7,
-        "Month": "January"
+        "Date": "25",
+        "Month": "July",
+        "Cost": "$48.87"
     },
     {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "9:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Wednesday",
+        "Date": "21",
+        "Month": "August",
+        "Cost": "$36.68"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "10:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Thursday",
+        "Date": "9",
+        "Month": "November",
+        "Cost": "$21.35"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "6:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Friday",
+        "Date": "3",
+        "Month": "August",
+        "Cost": "$32.14"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "7:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Tuesday",
+        "Date": "12",
+        "Month": "July",
+        "Cost": "$0.65"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "6:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Tuesday",
+        "Date": "11",
+        "Month": "May",
+        "Cost": "$6.77"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "7:30am",
+        "Arrival Time": "10:00pm",
+        "Day": "Tuesday",
+        "Date": "7",
+        "Month": "March",
+        "Cost": "$21.93"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "9:30am",
+        "Arrival Time": "9:00pm",
+        "Day": "Monday",
+        "Date": "4",
+        "Month": "July",
+        "Cost": "$20.25"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "9:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Wednesday",
+        "Date": "0",
+        "Month": "March",
+        "Cost": "$37.97"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "9:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Wednesday",
+        "Date": "25",
+        "Month": "May",
+        "Cost": "$16.23"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "8:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Monday",
+        "Date": "8",
+        "Month": "October",
+        "Cost": "$29.49"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "7:30am",
+        "Arrival Time": "7:30pm",
+        "Day": "Thursday",
+        "Date": "17",
+        "Month": "August",
+        "Cost": "$18.66"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "8:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Monday",
+        "Date": "17",
+        "Month": "November",
+        "Cost": "$49.97"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "6:30am",
+        "Arrival Time": "9:00pm",
+        "Day": "Monday",
+        "Date": "22",
+        "Month": "May",
+        "Cost": "$23.82"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "8:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Monday",
+        "Date": "22",
+        "Month": "December",
+        "Cost": "$28.33"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "8:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Wednesday",
+        "Date": "4",
+        "Month": "December",
+        "Cost": "$38.03"
+    },
+    {
+        "Origin Station": "\"Summit, IL\",SMT",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "10:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Monday",
+        "Date": "18",
+        "Month": "May",
+        "Cost": "$47.9"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "10:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Friday",
+        "Date": "10",
+        "Month": "October",
+        "Cost": "$11.51"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "9:30am",
+        "Arrival Time": "8:30pm",
+        "Day": "Thursday",
+        "Date": "15",
+        "Month": "July",
+        "Cost": "$31.83"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "10:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Monday",
+        "Date": "21",
+        "Month": "August",
+        "Cost": "$1.6099999999999999"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "8:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Tuesday",
+        "Date": "6",
+        "Month": "May",
+        "Cost": "$30.45"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "8:30am",
+        "Arrival Time": "7:30pm",
+        "Day": "Wednesday",
+        "Date": "25",
+        "Month": "March",
+        "Cost": "$38.58"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "6:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Friday",
+        "Date": "22",
+        "Month": "April",
+        "Cost": "$45.39"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "6:30am",
+        "Arrival Time": "10:00pm",
+        "Day": "Thursday",
+        "Date": "22",
+        "Month": "October",
+        "Cost": "$43.15"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "6:30am",
+        "Arrival Time": "9:00pm",
+        "Day": "Thursday",
+        "Date": "23",
+        "Month": "April",
+        "Cost": "$6.03"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "7:30am",
+        "Arrival Time": "8:30pm",
+        "Day": "Thursday",
+        "Date": "14",
+        "Month": "March",
+        "Cost": "$33.84"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "10:00am",
+        "Arrival Time": "6:00pm",
+        "Day": "Friday",
+        "Date": "12",
+        "Month": "June",
+        "Cost": "$2.25"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "6:30am",
+        "Arrival Time": "6:00pm",
+        "Day": "Wednesday",
+        "Date": "0",
+        "Month": "December",
+        "Cost": "$45.25"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "9:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Friday",
+        "Date": "23",
+        "Month": "January",
+        "Cost": "$12.97"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "6:30am",
+        "Arrival Time": "6:00pm",
+        "Day": "Monday",
+        "Date": "23",
+        "Month": "January",
+        "Cost": "$10.89"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "9:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Wednesday",
+        "Date": "28",
+        "Month": "Feburary",
+        "Cost": "$49.57"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "9:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Wednesday",
+        "Date": "6",
+        "Month": "December",
+        "Cost": "$48.17"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "8:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Monday",
+        "Date": "12",
+        "Month": "January",
+        "Cost": "$45.01"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "6:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Thursday",
+        "Date": "16",
+        "Month": "September",
+        "Cost": "$11.57"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "9:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Monday",
+        "Date": "4",
+        "Month": "May",
+        "Cost": "$12.3"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "10:00am",
+        "Arrival Time": "6:00pm",
+        "Day": "Tuesday",
+        "Date": "16",
+        "Month": "November",
+        "Cost": "$8.27"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "9:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Tuesday",
+        "Date": "17",
+        "Month": "May",
+        "Cost": "$0.95"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "8:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Friday",
+        "Date": "7",
+        "Month": "May",
+        "Cost": "$14.6"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "6:30am",
+        "Arrival Time": "8:30pm",
+        "Day": "Friday",
+        "Date": "24",
+        "Month": "April",
+        "Cost": "$3.81"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "10:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Monday",
+        "Date": "11",
+        "Month": "June",
+        "Cost": "$7.14"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "7:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Tuesday",
+        "Date": "10",
+        "Month": "March",
+        "Cost": "$22.11"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "7:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Monday",
+        "Date": "28",
+        "Month": "August",
+        "Cost": "$4.45"
+    },
+    {
+        "Origin Station": "\"Summit, IL\",SMT",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "8:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Friday",
+        "Date": "20",
+        "Month": "October",
+        "Cost": "$7.6899999999999995"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "9:30am",
+        "Arrival Time": "6:00pm",
+        "Day": "Friday",
+        "Date": "17",
+        "Month": "July",
+        "Cost": "$43.52"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "6:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Monday",
+        "Date": "27",
+        "Month": "December",
+        "Cost": "$12.83"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "6:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Friday",
+        "Date": "24",
+        "Month": "May",
+        "Cost": "$22.4"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "7:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Tuesday",
+        "Date": "29",
+        "Month": "November",
+        "Cost": "$1.26"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "9:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Monday",
+        "Date": "28",
+        "Month": "July",
+        "Cost": "$5.64"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "8:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Friday",
+        "Date": "8",
+        "Month": "April",
+        "Cost": "$21.68"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "9:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Wednesday",
+        "Date": "14",
+        "Month": "December",
+        "Cost": "$5.12"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
         "Departure Time": "8:30am",
         "Arrival Time": "9:00pm",
-        "Day": "Wednesday",
-        "Date": 28,
-        "Month": "July"
+        "Day": "Thursday",
+        "Date": "20",
+        "Month": "November",
+        "Cost": "$22.12"
     },
     {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "10:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Monday",
-        "Date": 14,
-        "Month": "Feburary"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
         "Departure Time": "9:30am",
-        "Arrival Time": "9:30pm",
+        "Arrival Time": "8:30pm",
+        "Day": "Thursday",
+        "Date": "26",
+        "Month": "March",
+        "Cost": "$20.66"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "10:00am",
+        "Arrival Time": "6:30pm",
         "Day": "Tuesday",
-        "Date": 12,
-        "Month": "May"
+        "Date": "9",
+        "Month": "May",
+        "Cost": "$17.86"
     },
     {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "9:00am",
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "6:00am",
         "Arrival Time": "9:30pm",
-        "Day": "Friday",
-        "Date": 11,
-        "Month": "May"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "6:30am",
-        "Arrival Time": "7:30pm",
-        "Day": "Friday",
-        "Date": 1,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "7:30am",
-        "Arrival Time": "7:30pm",
         "Day": "Wednesday",
-        "Date": 0,
-        "Month": "May"
+        "Date": "17",
+        "Month": "May",
+        "Cost": "$6.05"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "7:30am",
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "8:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Thursday",
+        "Date": "15",
+        "Month": "August",
+        "Cost": "$48.51"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "7:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Wednesday",
+        "Date": "20",
+        "Month": "September",
+        "Cost": "$25.42"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "6:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Monday",
+        "Date": "14",
+        "Month": "May",
+        "Cost": "$35.84"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "8:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Thursday",
+        "Date": "7",
+        "Month": "July",
+        "Cost": "$36.53"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "6:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Tuesday",
+        "Date": "18",
+        "Month": "August",
+        "Cost": "$29.95"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "8:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Thursday",
+        "Date": "26",
+        "Month": "Feburary",
+        "Cost": "$25.8"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "8:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Friday",
+        "Date": "1",
+        "Month": "August",
+        "Cost": "$5.8"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "6:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Tuesday",
+        "Date": "18",
+        "Month": "September",
+        "Cost": "$33.19"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "6:30am",
+        "Arrival Time": "8:30pm",
+        "Day": "Thursday",
+        "Date": "21",
+        "Month": "December",
+        "Cost": "$3.3"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "8:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Monday",
+        "Date": "7",
+        "Month": "August",
+        "Cost": "$29.7"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "8:30am",
         "Arrival Time": "7:30pm",
         "Day": "Thursday",
-        "Date": 21,
-        "Month": "January"
+        "Date": "30",
+        "Month": "Feburary",
+        "Cost": "$19.07"
     },
     {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "8:00am",
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "6:30am",
+        "Arrival Time": "6:00pm",
+        "Day": "Tuesday",
+        "Date": "26",
+        "Month": "August",
+        "Cost": "$29.68"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "6:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Wednesday",
+        "Date": "24",
+        "Month": "April",
+        "Cost": "$22.71"
+    },
+    {
+        "Origin Station": "\"Summit, IL\",SMT",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "9:00am",
+        "Arrival Time": "6:00pm",
+        "Day": "Thursday",
+        "Date": "9",
+        "Month": "May",
+        "Cost": "$27.84"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "8:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Thursday",
+        "Date": "2",
+        "Month": "August",
+        "Cost": "$17.26"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "8:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Friday",
+        "Date": "19",
+        "Month": "January",
+        "Cost": "$37.98"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "7:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Wednesday",
+        "Date": "15",
+        "Month": "March",
+        "Cost": "$20.45"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "7:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Tuesday",
+        "Date": "17",
+        "Month": "March",
+        "Cost": "$25.64"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "7:30am",
+        "Arrival Time": "10:00pm",
+        "Day": "Wednesday",
+        "Date": "4",
+        "Month": "January",
+        "Cost": "$10.55"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "10:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Tuesday",
+        "Date": "29",
+        "Month": "July",
+        "Cost": "$27.01"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "8:30am",
+        "Arrival Time": "10:00pm",
+        "Day": "Thursday",
+        "Date": "29",
+        "Month": "May",
+        "Cost": "$43.74"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "9:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Tuesday",
+        "Date": "25",
+        "Month": "December",
+        "Cost": "$19.15"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "8:30am",
+        "Arrival Time": "7:30pm",
+        "Day": "Wednesday",
+        "Date": "18",
+        "Month": "November",
+        "Cost": "$18.57"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "8:30am",
         "Arrival Time": "6:00pm",
         "Day": "Monday",
-        "Date": 8,
-        "Month": "November"
+        "Date": "27",
+        "Month": "June",
+        "Cost": "$17.02"
     },
     {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Tracy - ACE Station, CA\",TRC",
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "10:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Monday",
+        "Date": "25",
+        "Month": "October",
+        "Cost": "$12.63"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "9:00am",
+        "Arrival Time": "6:00pm",
+        "Day": "Wednesday",
+        "Date": "16",
+        "Month": "October",
+        "Cost": "$23.69"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "7:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Monday",
+        "Date": "30",
+        "Month": "May",
+        "Cost": "$32.88"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "7:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Monday",
+        "Date": "18",
+        "Month": "October",
+        "Cost": "$18.93"
+    },
+    {
+        "Origin Station": "\"Summit, IL\",SMT",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "7:00am",
+        "Arrival Time": "8:00pm",
+        "Day": "Friday",
+        "Date": "17",
+        "Month": "January",
+        "Cost": "$2.44"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "6:30am",
+        "Arrival Time": "7:30pm",
+        "Day": "Wednesday",
+        "Date": "6",
+        "Month": "November",
+        "Cost": "$36.95"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "10:00am",
+        "Arrival Time": "7:00pm",
+        "Day": "Friday",
+        "Date": "29",
+        "Month": "June",
+        "Cost": "$14.41"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "9:30am",
+        "Arrival Time": "7:00pm",
+        "Day": "Tuesday",
+        "Date": "17",
+        "Month": "March",
+        "Cost": "$40.99"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "9:00am",
+        "Arrival Time": "6:00pm",
+        "Day": "Thursday",
+        "Date": "18",
+        "Month": "August",
+        "Cost": "$32.49"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "7:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Tuesday",
+        "Date": "26",
+        "Month": "September",
+        "Cost": "$7.36"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Departure Time": "10:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Friday",
+        "Date": "24",
+        "Month": "April",
+        "Cost": "$46.33"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "9:30am",
+        "Arrival Time": "8:30pm",
+        "Day": "Wednesday",
+        "Date": "24",
+        "Month": "April",
+        "Cost": "$23.58"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "7:00am",
+        "Arrival Time": "9:00pm",
+        "Day": "Tuesday",
+        "Date": "20",
+        "Month": "April",
+        "Cost": "$37.22"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "7:30am",
+        "Arrival Time": "8:00pm",
+        "Day": "Tuesday",
+        "Date": "1",
+        "Month": "July",
+        "Cost": "$0.24"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Ritzville, WA\",RTZ",
+        "Departure Time": "8:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Thursday",
+        "Date": "29",
+        "Month": "October",
+        "Cost": "$21.81"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "9:00am",
+        "Arrival Time": "9:30pm",
+        "Day": "Tuesday",
+        "Date": "14",
+        "Month": "January",
+        "Cost": "$19.33"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "10:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Wednesday",
+        "Date": "17",
+        "Month": "April",
+        "Cost": "$15.47"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "6:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Thursday",
+        "Date": "9",
+        "Month": "September",
+        "Cost": "$22.57"
+    },
+    {
+        "Origin Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Destination Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Departure Time": "10:00am",
+        "Arrival Time": "10:00pm",
+        "Day": "Wednesday",
+        "Date": "11",
+        "Month": "November",
+        "Cost": "$25.72"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "7:00am",
+        "Arrival Time": "6:00pm",
+        "Day": "Monday",
+        "Date": "1",
+        "Month": "October",
+        "Cost": "$38.97"
+    },
+    {
+        "Origin Station": "\"Walla Walla - Bus Stop, WA\",WWA",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "7:30am",
+        "Arrival Time": "9:00pm",
+        "Day": "Tuesday",
+        "Date": "30",
+        "Month": "Feburary",
+        "Cost": "$33.92"
+    },
+    {
+        "Origin Station": "\"Ritzville, WA\",RTZ",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "6:00am",
+        "Arrival Time": "8:30pm",
+        "Day": "Wednesday",
+        "Date": "20",
+        "Month": "November",
+        "Cost": "$1.46"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "8:00am",
+        "Arrival Time": "6:30pm",
+        "Day": "Monday",
+        "Date": "6",
+        "Month": "August",
+        "Cost": "$8.54"
+    },
+    {
+        "Origin Station": "\"St. Joseph, MI\",SJM",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "6:30am",
+        "Arrival Time": "8:00pm",
+        "Day": "Tuesday",
+        "Date": "20",
+        "Month": "September",
+        "Cost": "$7.25"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Solvang, CA\",SLV",
+        "Departure Time": "9:00am",
+        "Arrival Time": "7:30pm",
+        "Day": "Tuesday",
+        "Date": "14",
+        "Month": "November",
+        "Cost": "$30.95"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Cincinnati, OH\",CIN",
+        "Departure Time": "8:30am",
+        "Arrival Time": "9:00pm",
+        "Day": "Tuesday",
+        "Date": "9",
+        "Month": "Feburary",
+        "Cost": "$23.29"
+    },
+    {
+        "Origin Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Destination Station": "\"Johnstown, PA\",JST",
+        "Departure Time": "7:30am",
+        "Arrival Time": "10:00pm",
+        "Day": "Wednesday",
+        "Date": "2",
+        "Month": "April",
+        "Cost": "$9.49"
+    },
+    {
+        "Origin Station": "\"Johnstown, PA\",JST",
+        "Destination Station": "\"St. Joseph, MI\",SJM",
+        "Departure Time": "7:30am",
+        "Arrival Time": "10:00pm",
+        "Day": "Tuesday",
+        "Date": "19",
+        "Month": "April",
+        "Cost": "$44.04"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Summit, IL\",SMT",
+        "Departure Time": "9:00am",
+        "Arrival Time": "10:00pm",
+        "Day": "Wednesday",
+        "Date": "8",
+        "Month": "May",
+        "Cost": "$39.25"
+    },
+    {
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
+        "Departure Time": "9:30am",
+        "Arrival Time": "6:30pm",
+        "Day": "Tuesday",
+        "Date": "0",
+        "Month": "November",
+        "Cost": "$10.58"
+    },
+    {
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "7:30am",
+        "Arrival Time": "9:30pm",
+        "Day": "Monday",
+        "Date": "12",
+        "Month": "November",
+        "Cost": "$11.0"
+    },
+    {
+        "Origin Station": "\"Cincinnati, OH\",CIN",
+        "Destination Station": "\"Absecon - NJ Transit Station, NJ\",ABN",
         "Departure Time": "7:00am",
         "Arrival Time": "8:30pm",
         "Day": "Thursday",
-        "Date": 25,
-        "Month": "March"
+        "Date": "20",
+        "Month": "May",
+        "Cost": "$48.33"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "8:30am",
+        "Origin Station": "\"Solvang, CA\",SLV",
+        "Destination Station": "\"Cherry Hill - NJ Transit Station, NJ\",CRH",
+        "Departure Time": "8:00am",
         "Arrival Time": "7:30pm",
-        "Day": "Wednesday",
-        "Date": 17,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "9:30am",
-        "Arrival Time": "8:00pm",
-        "Day": "Wednesday",
-        "Date": 21,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "8:00am",
-        "Arrival Time": "9:00pm",
         "Day": "Tuesday",
-        "Date": 20,
-        "Month": "December"
+        "Date": "30",
+        "Month": "March",
+        "Cost": "$3.43"
     },
     {
-        "Origin Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "6:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Monday",
-        "Date": 12,
-        "Month": "Feburary"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Nacogdoches, TX\",NCG",
-        "Departure Time": "7:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Thursday",
-        "Date": 24,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "9:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Monday",
-        "Date": 29,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "7:00am",
-        "Arrival Time": "7:30pm",
-        "Day": "Monday",
-        "Date": 7,
-        "Month": "October"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "10:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Friday",
-        "Date": 8,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
-        "Departure Time": "9:00am",
-        "Arrival Time": "6:00pm",
-        "Day": "Thursday",
-        "Date": 3,
-        "Month": "June"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "9:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Tuesday",
-        "Date": 27,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "9:00am",
-        "Arrival Time": "7:00pm",
-        "Day": "Thursday",
-        "Date": 19,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "8:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Thursday",
-        "Date": 27,
-        "Month": "November"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "9:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Monday",
-        "Date": 15,
-        "Month": "Feburary"
-    },
-    {
-        "Origin Station": "\"Nacogdoches, TX\",NCG",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "9:30am",
-        "Arrival Time": "9:00pm",
-        "Day": "Friday",
-        "Date": 20,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Crawfordsville - Bus, IN\",CRB",
-        "Departure Time": "10:00am",
-        "Arrival Time": "6:30pm",
-        "Day": "Thursday",
-        "Date": 16,
-        "Month": "January"
-    },
-    {
-        "Origin Station": "\"Palm Springs - North, CA\",PSN",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "6:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Monday",
-        "Date": 4,
-        "Month": "September"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Carbondale, IL\",CDL",
-        "Departure Time": "9:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Wednesday",
-        "Date": 25,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Norfolk, VA\",NFK",
-        "Departure Time": "8:00am",
-        "Arrival Time": "9:30pm",
-        "Day": "Thursday",
-        "Date": 1,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Daytona Beach, FL\",DYA",
-        "Destination Station": "\"Palm Springs - North, CA\",PSN",
+        "Origin Station": "\"Poncha Springs - Bus Stop, CO\",PSG",
+        "Destination Station": "\"Johnstown, PA\",JST",
         "Departure Time": "6:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Wednesday",
-        "Date": 17,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Glasgow, MT\",GGW",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "8:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Thursday",
-        "Date": 6,
-        "Month": "March"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "6:00am",
-        "Arrival Time": "9:00pm",
-        "Day": "Thursday",
-        "Date": 9,
-        "Month": "April"
-    },
-    {
-        "Origin Station": "\"Huntingdon, PA\",HGD",
-        "Destination Station": "\"Glasgow, MT\",GGW",
-        "Departure Time": "9:30am",
-        "Arrival Time": "7:00pm",
-        "Day": "Monday",
-        "Date": 11,
-        "Month": "July"
-    },
-    {
-        "Origin Station": "\"Claremont, NH\",CLA",
-        "Destination Station": "\"Huntingdon, PA\",HGD",
-        "Departure Time": "7:30am",
-        "Arrival Time": "6:30pm",
-        "Day": "Monday",
-        "Date": 3,
-        "Month": "August"
-    },
-    {
-        "Origin Station": "\"Tracy - ACE Station, CA\",TRC",
-        "Destination Station": "\"Claremont, NH\",CLA",
-        "Departure Time": "7:00am",
         "Arrival Time": "7:30pm",
         "Day": "Thursday",
-        "Date": 11,
-        "Month": "December"
-    },
-    {
-        "Origin Station": "\"Carbondale, IL\",CDL",
-        "Destination Station": "\"Daytona Beach, FL\",DYA",
-        "Departure Time": "6:00am",
-        "Arrival Time": "8:00pm",
-        "Day": "Friday",
-        "Date": 24,
-        "Month": "April"
+        "Date": "12",
+        "Month": "March",
+        "Cost": "$9.01"
     }
 ]
