@@ -11,9 +11,9 @@ arrival_times = ['6:00', '6:30', '7:00', '7:30', '8:00', '8:30', '9:00', '9:30',
 
 meridiem = ['am', 'pm']
 
-week = [] #iterate random value between 1 and 31
-
 day = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+
+month = ['January', 'Feburary', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
 stations = []
 trains = []
@@ -34,23 +34,34 @@ def reject_sample(lst, exception):
         if choice != exception:
             return choice
 
+def opposite(meridiem):
+    if (meridiem == 'am'):
+        return 'pm'
+    else:
+        return 'am'
 #def function to return a random choice
 #def a function to return a random choice minus a certain value
 
-# bookings_list = []
-# out_file = open("bookings_list.json", "w+")
-# for x in range(200):
+bookings_dict = []
+out_file = open("bookings_list.json", "w+")
+for x in range(200):
 
-#     current_station = random.choice(stations)
-#     exception = reject_sample(stations, current_station)
-#     book_dict.append({"Origin Station": current_station,
-#                    "Destination Station": exception,
-#                    "Departure Time": random.choice(genre),
-#                    "Arrival Time": random.choice(first_names) + " " + random.choice(last_names),
-#                    "Date": np.random.choice(["No", "Yes"], p=[0.75, 0.25])})
-# json.dump(book_dict, out_file, indent = 4)
-# out_file.close()
-# print(book_dict)
+    current_station = random.choice(stations)
+    exception = reject_sample(stations, current_station)
+    current_meridiem = np.random.choice(["am", "pm"], p=[0.80, 0.20])
+    exception_meridiem = opposite(meridiem)
+
+
+    bookings_dict.append({"Origin Station": current_station,
+                   "Destination Station": exception,
+                   "Departure Time": random.choice(departure_times) + "am", #+ current_meridiem, 
+                   "Arrival Time": random.choice(arrival_times) + "pm", #+ exception_meridiem,
+                   "Day": random.choice(day),
+                   "Date": np.random.choice(31),
+                   "Month": np.random.choice(month),})
+json.dump(bookings_dict, out_file, indent = 4)
+out_file.close()
+print(bookings_dict)
 
 # user_list = []
 # user_file = open("user_list.json", "w+")
