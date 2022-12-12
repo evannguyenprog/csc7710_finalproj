@@ -21,15 +21,17 @@
         </div>
         <br>
 
-        <div class="flex-container">
+        <div class="flex-container2">
 
-            <form action="/mapReduceQuery" method="post">
-                <!-- <label for="stationid">StationID:</label><br>
-                <input type="text" id="stationid" name="stationid"><br> -->
-                
-                <input type="submit" value="Submit">
-            </form>
-        
+            <div class="flex-child2 magenta">
+                <p> Ticket Count</p>
+                    <ul>
+                        {% for key in mapreduce%}
+                        <li>{{key}}</li>
+                        {% endfor %}            
+                    </ul>    
+                </div>
+           
         </div>
         
         <br>

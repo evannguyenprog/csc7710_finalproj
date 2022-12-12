@@ -30,35 +30,43 @@ def home():
 @app.route('/mapReduce', methods=['GET'])
 def mapReduce():
     station_data = collection_station_data.find()
-    return render_template('map_reduce.html', stationdata = station_data)
-
-@app.route('/mapReduceQuery', methods=['GET', 'POST'])
-def mapReduceQuery():
-    # map = Code("function () {"
-    #     "  this.RidesIDs.forEach(function() {"
-    #     "    emit('TicketID', 1);"
-    #     "  });"
-    #     "}")
-    # reduce = Code("function (key, values) {"
-    #         "  var total = 0;"
-    #         "  for (var i = 0; i < values.length; i++) {"
-    #         "    total += values[i];"
-    #         "  }"
-    #         "  return total;"
-    #         "}")
-    # result = collection_station_data.map_reduce(map, reduce, "results")
 
     result = mongo_client['evan_rentals']['station_data'].aggregate([
         {
             '$project': {
-                '_id': '$TicketIDs', 
-                'total_count': {
+                '_id': 0, 
+                'TicketIDs': 1, 
+                'Origin Station': 1
+            }
+        }, {
+            '$project': {
+                '_id': '$Origin Station', 
+                'ticket_count': {
                     '$size': '$TicketIDs'
                 }
             }
-        }
-    ])
-    return dumps(result) 
+        }])
+
+    return render_template('map_reduce.html', stationdata = station_data, mapreduce = result)
+
+# @app.route('/mapReduceQuery', methods=['GET', 'POST'])
+# def mapReduceQuery():
+#     map = Code("function () {"
+#         "  this.RidesIDs.forEach(function() {"
+#         "    emit('TicketID', 1);"
+#         "  });"
+#         "}")
+#     reduce = Code("function (key, values) {"
+#             "  var total = 0;"
+#             "  for (var i = 0; i < values.length; i++) {"
+#             "    total += values[i];"
+#             "  }"
+#             "  return total;"
+#             "}")
+#     result = collection_station_data.map_reduce(map, reduce, "results")
+
+    
+#     return dumps(result) 
 
 @app.route('/testing', methods=['GET'])
 def testing():
@@ -96,12 +104,13 @@ def createBookingQuery():
     #querydb for price and id
     nDict = dict()
     search_id = request.form['rideid'] #to create search string with
-    print(search_id)
     first_query = collection_openings.find_one({"_id":ObjectId(search_id)})
     nDict = first_query
     cost = nDict.get('Cost')
     # #cursor = collection_openings.find({"_id":ObjectId('63965d890a9fd79931f89e9d')})
     newUUID = str(uuid.uuid4())
+    print(search_id)
+    print(newUUID)
     query = {'Name': request.form['name'],
             'Date': str(today),
             'RideID': ObjectId(search_id),
@@ -113,12 +122,12 @@ def createBookingQuery():
     query2 = {"RidesIDs": {"$in" : [search_id]} }
     updates = {"$push": {'TicketIDs': newUUID}}
     collection_station_data.update_one(query2, updates)
-    return dumps(query)
+    return dumps(query2)
    
 @app.route('/deleteBooking', methods=['GET', 'POST'])
 def deleteBooking():
-    openings = collection_openings.find()
-    return render_template('delete_booking.html',openings = openings)
+    bookings = collection_purchased.find()
+    return render_template('delete_booking.html',bookings = bookings)
 
 @app.route('/deleteBookingQuery', methods=['GET', 'POST'])
 def deleteBookingQuery():
