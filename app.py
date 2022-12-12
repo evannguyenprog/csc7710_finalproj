@@ -29,22 +29,36 @@ def home():
 
 @app.route('/mapReduce', methods=['GET'])
 def mapReduce():
+    station_data = collection_station_data.find()
+    return render_template('map_reduce.html', stationdata = station_data)
+
+@app.route('/mapReduceQuery', methods=['GET', 'POST'])
+def mapReduceQuery():
     # map = Code("function () {"
-    #         "  this.tags.forEach(function(z) {"
-    #         "    emit(Cost, 1);"
-    #         "  });"
-    #        "}")
+    #     "  this.RidesIDs.forEach(function() {"
+    #     "    emit('TicketID', 1);"
+    #     "  });"
+    #     "}")
     # reduce = Code("function (key, values) {"
-    #             "  var total = 0;"
-    #             "  for (var i = 0; i < values.length; i++) {"
-    #             "    total += values[i];"
-    #             "  }"
-    #             "  return total;"
-    #             "}")
-    # result = collection_purchased.map_reduce(map, reduce, "results")
-    # for doc in result.find():
-    #     print doc
-    return "map reduce here"
+    #         "  var total = 0;"
+    #         "  for (var i = 0; i < values.length; i++) {"
+    #         "    total += values[i];"
+    #         "  }"
+    #         "  return total;"
+    #         "}")
+    # result = collection_station_data.map_reduce(map, reduce, "results")
+
+    result = mongo_client['evan_rentals']['station_data'].aggregate([
+        {
+            '$project': {
+                '_id': '$TicketIDs', 
+                'total_count': {
+                    '$size': '$TicketIDs'
+                }
+            }
+        }
+    ])
+    return dumps(result) 
 
 @app.route('/testing', methods=['GET'])
 def testing():
