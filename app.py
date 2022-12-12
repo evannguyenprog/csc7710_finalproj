@@ -131,8 +131,13 @@ def deleteBooking():
 
 @app.route('/deleteBookingQuery', methods=['GET', 'POST'])
 def deleteBookingQuery():
+    #delete ticket from bookings
     ticket_to_delete = request.form['deleteid']
     collection_purchased.delete_one({"TicketID":ticket_to_delete})
+    #delete ticket from station data
+    query = {"TicketIDs": {"$in" : [ticket_to_delete]} }
+    updates = {"$pull": {'TicketIDs': ticket_to_delete}}
+    collection_station_data.update_one(query, updates)
     return ("Ticket with id: [" + ticket_to_delete + "] successfully deleted.")
 
 @app.route('/updateBooking', methods=['GET', 'POST'])
@@ -166,23 +171,5 @@ def returnAllBookings():
     bookings = collection_purchased.find()
     return render_template('your_bookings.html', bookings = bookings)
 
-# @app.route('/login', methods=['POST'])
-# def authenticate():
-
-#     print(request)
-#     query = {"Username": request.form['username'], "Password": request.form['password']}
-
-#     valid_login = mongo_users_coll.count_documents(query)
-
-#     if valid_login == 1:
-#         session['logged_in'] = True
-#         session['user'] = request.form['username']
-#         #return userHomePage()
-#     else:
-#         flash('Invalid Login Attempt')
-#     return home()
-
-
 if __name__ == '__main__':
-    # app.secret_key = os.urandom(12)
-    app.run()#host='0.0.0.0', port=8008)
+    app.run()
