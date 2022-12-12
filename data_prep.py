@@ -53,7 +53,7 @@ def opposite(meridiem):
 
 bookings_dict = []
 out_file = open("bookings_list.json", "w+")
-for x in range(200):
+for x in range(15):
 
     current_station = random.choice(stations)
     exception = reject_sample(stations, current_station)

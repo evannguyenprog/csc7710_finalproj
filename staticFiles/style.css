@@ -21,6 +21,9 @@ p {
     border-radius: 5px;
     font-size: 24px;
 }
+p1 {
+    font-size: 10px;
+}
 a:hover {
     color: red;
     background: #eff;

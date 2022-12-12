@@ -4,24 +4,59 @@ import pymongo
 import json
 import requests
 from werkzeug.utils import redirect
+from bson.json_util import dumps, loads
+from bson import ObjectId
 
 mongo_client = pymongo.MongoClient('mongodb://localhost:27017/')
-mongo_db = mongo_client['evan_rentals']
-mongo_users_coll = mongo_db['users']
+mongoDB = mongo_client['evan_rentals']
+collection_openings = mongoDB['openings']
+collection_purchased = mongoDB['purchased_rides']
 
 app = Flask(__name__,template_folder='templates', static_folder='staticFiles')
 
-
-@app.route('/')
+@app.route('/', methods=['GET'])
 def home():
-    # if not session.get('logged_in'):
-    #     return render_template('login.html')
-    # else:
-        # user_profile = requests.get("http://127.0.0.1:5003/users/{}".format(session.get('user')))
-        # user_profile = user_profile.json()
-        # welcome_message = "Welcome!"
-        return render_template('home_page.html')
-        
+    # data = dict()
+    # cursor = collection_openings.find()
+    # for document in cursor:
+    #     data = document
+    return render_template('index2.html')
+
+
+@app.route('/displayOpenings', methods=['GET'])
+def returnOpenings():
+    #cursor = collection_openings.find({"_id":ObjectId('63965d890a9fd79931f89e9d')})
+    openings = collection_openings.find()
+    return dumps(openings)
+
+@app.route('/createBooking')
+def returnRides():
+    newDict = dict()
+    x = 0
+    y = 0
+    data = collection_openings.find()
+    print("data sent to page")
+    for document in data:
+        newDict[x] = document
+        x+=1
+
+    return render_template('create_booking.html', data = data, y = y)
+
+@app.route('/bookingsPage')
+def returnBookingsPage():
+    return render_template('bookings.html')
+
+@app.route('/retrieveBooking')
+def retrieveBookingsPage():
+    return render_template('retrieve_booking.html')
+
+@app.route('/retrieveBookingQuery', methods=['GET', 'POST'])
+def returnBookings():
+    #take data sent through form 
+    query = {'TicketID': request.form['ticketid']}
+    results = collection_purchased.find_one(query)
+    return dumps(results)
+
 # @app.route('/login', methods=['POST'])
 # def authenticate():
 
@@ -40,5 +75,5 @@ def home():
 
 
 if __name__ == '__main__':
-    app.secret_key = os.urandom(12)
-    app.run(host='0.0.0.0', port=8008)
+    # app.secret_key = os.urandom(12)
+    app.run()#host='0.0.0.0', port=8008)

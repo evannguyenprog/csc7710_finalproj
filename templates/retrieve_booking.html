@@ -1,0 +1,37 @@
+<!-- retrieve a booking is here -->
+<!-- form to enter ticket ids to return specific info -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bookings App</title>
+    <link rel="stylesheet" href='/staticFiles/style.css' />
+</head>
+
+<body>
+    <div class="center">
+        <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;
+        ">
+            <h1>Retrieve Booking</h1>
+        </div>
+
+        <br>
+        <br>
+
+        <div class="flex-container">
+
+            <form action="/retrieveBookingQuery" method="post">
+                <label for="ticketid">TicketID:</label><br>
+                <input type="text" id="ticketid" name="ticketid"><br>
+                <input type="submit" value="Submit">
+            </form>>
+        
+        </div>
+        
+    </div>
+</body>
+
+</html>
