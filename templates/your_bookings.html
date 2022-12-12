@@ -1,2 +1,46 @@
 <!-- your bookings -->
 <!-- get request to return all bookings in purchased_rides collection -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bookings App</title>
+    <link rel="stylesheet" href='/staticFiles/style.css' />
+</head>
+
+<body>
+    <div class="center">
+        <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;
+        ">
+            <h1>Current Bookings</h1>
+        </div>
+
+        <br>
+        <br>
+        
+        <div class="flex-container">
+
+            <div class="flex-child magenta">
+                <p>Bookings</p>
+                    <ul>
+                        {% for key in bookings%}
+                        <li>{{key}}</li>
+                        {% endfor %}
+                    </ul>
+            </div>
+           
+        </div>
+        <br>
+        <br>
+        
+        <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;">
+            <a href="/">Home</a>
+        </div>
+
+
+    </div>
+</body>
+
+</html>

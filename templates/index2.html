@@ -9,8 +9,7 @@
 
 <body>
     <div class="center">
-        <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;
-        ">
+        <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;">
             <h1>Bookings Site</h1>
         </div>
 
@@ -20,7 +19,7 @@
         <div class="flex-container">
 
             <div class="flex-child magenta">
-                <a href="/displayOpenings" style="font-size: 24px">View Availabilities</a>
+                <a href="/mapReduce" style="font-size: 24px">Check Profits By Date</a>
             </div>
             
             <div class="flex-child green">
@@ -29,6 +28,29 @@
         
         </div>
         
+        <br>
+        <br>
+
+        <div class="flex-container2">
+
+            <div class="flex-child2 magenta">
+                <p>Availabilities</p>
+                    <ul>
+                        {% for key in openings%}
+                        <li>{{key}}</li>
+                        {% endfor %}            
+                    </ul>    
+                </div>
+           
+        </div>
+        
+        <!-- <br>
+        <br>
+
+        <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;">
+            <a href="/">Home</a>
+        </div> -->
+
     </div>
 </body>
 

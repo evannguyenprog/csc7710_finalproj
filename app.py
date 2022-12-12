@@ -22,18 +22,20 @@ app = Flask(__name__,template_folder='templates', static_folder='staticFiles')
 
 @app.route('/', methods=['GET'])
 def home():
-    # data = dict()
-    # cursor = collection_openings.find()
-    # for document in cursor:
-    #     data = document
-    return render_template('index2.html')
+    openings = collection_openings.find()
+    return render_template('index2.html', openings = openings)
 
 
-@app.route('/displayOpenings', methods=['GET'])
-def returnOpenings():
+@app.route('/mapReduce', methods=['GET'])
+def mapReduce():
+    return "map reduce here"
+
+@app.route('/testing', methods=['GET'])
+def testing():
     #cursor = collection_openings.find({"_id":ObjectId('63965d890a9fd79931f89e9d')})
     openings = collection_openings.find()
-    return dumps(openings)
+    return render_template('index.html', openings = openings)
+
 
 @app.route('/bookingsPage')
 def returnBookingsPage():
@@ -41,7 +43,8 @@ def returnBookingsPage():
 
 @app.route('/retrieveBooking')
 def retrieveBookingsPage():
-    return render_template('retrieve_booking.html')
+    openings = collection_openings.find()
+    return render_template('retrieve_booking.html', openings = openings)
 
 @app.route('/retrieveBookingQuery', methods=['GET', 'POST'])
 def returnBookings():
@@ -52,7 +55,8 @@ def returnBookings():
 
 @app.route('/createBooking')
 def createBooking():
-    return render_template('create_booking.html')
+    openings = collection_openings.find()
+    return render_template('create_booking.html',openings = openings)
 
 @app.route('/createBookingQuery', methods=['GET', 'POST'])
 def createBookingQuery():
@@ -75,7 +79,8 @@ def createBookingQuery():
    
 @app.route('/deleteBooking', methods=['GET', 'POST'])
 def deleteBooking():
-    return render_template('delete_booking.html')
+    openings = collection_openings.find()
+    return render_template('delete_booking.html',openings = openings)
 
 @app.route('/deleteBookingQuery', methods=['GET', 'POST'])
 def deleteBookingQuery():
@@ -85,7 +90,8 @@ def deleteBookingQuery():
 
 @app.route('/updateBooking', methods=['GET', 'POST'])
 def updateBooking():
-    return render_template('update_booking.html')
+    openings = collection_openings.find()
+    return render_template('update_booking.html',openings = openings)
 
 @app.route('/updateBookingQuery', methods=['GET', 'POST'])
 def updateBookingQuery():
@@ -99,7 +105,7 @@ def updateBookingQuery():
     #newUUID = str(uuid.uuid4())
     query = {'TicketID': request.form['updateid']}
 
-    updates = {"$set": {'RideID': ObjectId(request.form['newRideID']), 'Date': str(datetime.now()), 'Cost': cost, }}
+    updates = {"$set": {'RideID': ObjectId(request.form['newRideID']), 'Date': str(today), 'Cost': cost, }}
 
     collection_purchased.update_one(query, updates)
 
@@ -111,7 +117,7 @@ def updateBookingQuery():
 def returnAllBookings():
     #cursor = collection_openings.find({"_id":ObjectId('63965d890a9fd79931f89e9d')})
     bookings = collection_purchased.find()
-    return dumps(bookings)
+    return render_template('your_bookings.html', bookings = bookings)
 
 # @app.route('/login', methods=['POST'])
 # def authenticate():

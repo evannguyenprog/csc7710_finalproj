@@ -14,10 +14,13 @@
 <body>
     <div class="center">
         <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;">
-            <h1>Retrieve Booking</h1>
+            <h1>Retrieve a Booking</h1>
         </div>
-
         <br>
+        <br>
+        <div>
+            <h1>Choose a booking to update:</h1>
+        </div>
         <br>
 
         <div class="flex-container">
@@ -28,10 +31,34 @@
                 <input type="text" id="ticketid" name="ticketid">
                 <br>
                 <input type="submit" value="Submit">
-            </form>>
+            </form>
         
         </div>
         
+        <br>
+        <br>
+
+        <div class="flex-container2">
+
+            <div class="flex-child2 magenta">
+                <p>Availabilities</p>
+                    <ul>
+                        {% for key in openings%}
+                        <li>{{key}}</li>
+                        {% endfor %}            
+                    </ul>    
+                </div>
+           
+        </div>
+
+        <br>
+        <br>
+        
+        <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;">
+            <a href="/">Home</a>
+        </div>
+
+
     </div>
 </body>
 
