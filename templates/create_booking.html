@@ -1,10 +1,41 @@
 <!-- put form here to send document to db -->
 
-<!doctype html>
-<html>
-   <body>
-        {% for doc in data %}
-            <h3>{{doc[2]}}</h3>
-        {% endfor %}
-   </body>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bookings App</title>
+    <link rel="stylesheet" href='/staticFiles/style.css' />
+</head>
+
+<body>
+    <div class="center">
+        <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;">
+            <h1>Create a Booking</h1>
+        </div>
+
+        <br>
+        <div>
+            <h1>Choose an availability to book a ticket:</h1>
+        </div>
+        <br>
+
+        <div class="flex-container">
+
+            <form action="/createBookingQuery" method="post">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name"><br>
+                
+                <label for="rideid">RideID:</label><br>
+                <input type="text" id="rideid" name="rideid"><br>
+     
+                <input type="submit" value="Submit">
+            </form>>
+        
+        </div>
+        
+    </div>
+</body>
+
 </html>

@@ -1,7 +1,3 @@
-<!-- retrieve a booking is here -->
-<!-- form to enter ticket ids to return specific info -->
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,19 +10,24 @@
 <body>
     <div class="center">
         <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;">
-            <h1>Retrieve Booking</h1>
+            <h1>Delete a Booking</h1>
         </div>
 
         <br>
+        <div>
+            <h1>Choose a booking to delete:</h1>
+        </div>
         <br>
 
         <div class="flex-container">
 
-            <form action="/retrieveBookingQuery" method="post">
-                <label for="ticketid">TicketID:</label>
-                <br>
-                <input type="text" id="ticketid" name="ticketid">
-                <br>
+            <form action="/deleteBooking" method="post">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name"><br>
+                
+                <label for="rideid">RideID:</label><br>
+                <input type="text" id="rideid" name="rideid"><br>
+     
                 <input type="submit" value="Submit">
             </form>>
         
