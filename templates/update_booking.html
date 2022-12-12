@@ -10,20 +10,23 @@
 <body>
     <div class="center">
         <div class="center" style="background-color: #EEE; padding:5px; width: fit-content; border-radius: 15px;">
-            <h1>Delete a Booking</h1>
+            <h1>Update a Booking</h1>
         </div>
 
         <br>
         <div>
-            <h1>Choose a booking to delete:</h1>
+            <h1>Choose a booking to update:</h1>
         </div>
         <br>
 
         <div class="flex-container">
 
-            <form action="/deleteBookingQuery" method="post">
-                <label for="deleteid">TicketID to Delete:</label><br>
-                <input type="text" id="deleteid" name="deleteid"><br>
+            <form action="/updateBookingQuery" method="post">
+                <label for="updateid">TicketID to Update:</label><br>
+                <input type="text" id="updateid" name="updateid"><br>
+     
+                <label for="newRideID">New RideID:</label><br>
+                <input type="text" id="newRideID" name="newRideID"><br>
      
                 <input type="submit" value="Submit">
             </form>>
