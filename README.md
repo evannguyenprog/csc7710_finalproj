@@ -16,3 +16,4 @@ TO-DO:
 Clean Up UI
 Error Handling for the Forms
 Need Logic for Compiling Station Data json and loading into db (currently executed by hand)
+Might have issues running app on clone, check data and make sure schema is correct for the db
