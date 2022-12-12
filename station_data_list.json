@@ -1,0 +1,39 @@
+[
+    {
+        "Origin Station": "\"Waupaca - Bus Stop, WI\",WAU",
+        "RidesIDs": ["63965d890a9fd79931f89e9d", "63965d890a9fd79931f89e9e", "63965d890a9fd79931f89ea3"],
+        "TicketIDs": []
+    },
+
+    {
+        "Origin Station": "\"Sheboygan - Bus Stop, WI\",SHB",
+        "RidesIDs": ["63965d890a9fd79931f89e9f", "63965d890a9fd79931f89ea0", "63965d890a9fd79931f89ea7"],
+        "TicketIDs": ["a4a14c18-ba93-49d9-9982-5bf3a77876d3", "f8b5d049-7835-485a-85be-8f38c743d504"]
+    },
+
+    {
+        "Origin Station": "\"Kewanee, IL\",KEE",
+        "RidesIDs": ["63965d890a9fd79931f89ea1", "63965d890a9fd79931f89ea9"],
+        "TicketIDs": []
+    },
+    {
+        "Origin Station": "\"Leavenworth - Bus Stop, WA\",LEV",
+        "RidesIDs": ["63965d890a9fd79931f89ea2", "63965d890a9fd79931f89ea5", "63965d890a9fd79931f89ea6", "63965d890a9fd79931f89eaa"],
+        "TicketIDs": ["f55e4a42-cf6e-4c21-b62e-26a5a6935e89", "f4af7f8b-56b9-4e4b-abb9-f85dfab1b72a"]
+    },
+    {
+        "Origin Station": "\"Tyler - Bus Station, TX\",TYL",
+        "RidesIDs": ["63965d890a9fd79931f89ea4"],
+        "TicketIDs": []
+    },
+    {
+        "Origin Station": "\"Moses Lake, WA\",MLK",
+        "RidesIDs": ["63965d890a9fd79931f89ea8"],
+        "TicketIDs": ["b907ded4-5394-48e0-aebc-14decdb90671"]
+    },
+    {
+        "Origin Station": "\"Boise, ID\",BOI",
+        "RidesIDs": ["63965d890a9fd79931f89eab"],
+        "TicketIDs": []
+    }
+]

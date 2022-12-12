@@ -5,7 +5,7 @@ import json
 import requests
 from werkzeug.utils import redirect
 from bson.json_util import dumps, loads
-from bson import ObjectId
+from bson import ObjectId, Code
 import numpy as np
 from datetime import date, datetime
 import uuid
@@ -17,6 +17,7 @@ mongo_client = pymongo.MongoClient('mongodb://localhost:27017/')
 mongoDB = mongo_client['evan_rentals']
 collection_openings = mongoDB['openings']
 collection_purchased = mongoDB['purchased_rides']
+collection_station_data = mongoDB['station_data']
 
 app = Flask(__name__,template_folder='templates', static_folder='staticFiles')
 
@@ -28,13 +29,31 @@ def home():
 
 @app.route('/mapReduce', methods=['GET'])
 def mapReduce():
+    # map = Code("function () {"
+    #         "  this.tags.forEach(function(z) {"
+    #         "    emit(Cost, 1);"
+    #         "  });"
+    #        "}")
+    # reduce = Code("function (key, values) {"
+    #             "  var total = 0;"
+    #             "  for (var i = 0; i < values.length; i++) {"
+    #             "    total += values[i];"
+    #             "  }"
+    #             "  return total;"
+    #             "}")
+    # result = collection_purchased.map_reduce(map, reduce, "results")
+    # for doc in result.find():
+    #     print doc
     return "map reduce here"
 
 @app.route('/testing', methods=['GET'])
 def testing():
     #cursor = collection_openings.find({"_id":ObjectId('63965d890a9fd79931f89e9d')})
-    openings = collection_openings.find()
-    return render_template('index.html', openings = openings)
+    # query2 = {"RidesIDs": {"$in" : ["63965d890a9fd79931f89e9d"]} }
+    # # query2 = {'_id': ObjectId('63970ea26bb2ab120052312e')}
+    # updates = {"$push": {'TicketIDs': '20'}}
+    # collection_station_data.update_one(query2, updates)
+    return "testing"
 
 
 @app.route('/bookingsPage')
@@ -68,13 +87,18 @@ def createBookingQuery():
     nDict = first_query
     cost = nDict.get('Cost')
     # #cursor = collection_openings.find({"_id":ObjectId('63965d890a9fd79931f89e9d')})
-
+    newUUID = str(uuid.uuid4())
     query = {'Name': request.form['name'],
             'Date': str(today),
             'RideID': ObjectId(search_id),
-            'TicketID': str(uuid.uuid4()),
+            'TicketID': newUUID,
             'Cost': cost}
     collection_purchased.insert_one(query)
+    
+    #update the station data so it accurately reflects which stations have which tickets 
+    query2 = {"RidesIDs": {"$in" : [search_id]} }
+    updates = {"$push": {'TicketIDs': newUUID}}
+    collection_station_data.update_one(query2, updates)
     return dumps(query)
    
 @app.route('/deleteBooking', methods=['GET', 'POST'])

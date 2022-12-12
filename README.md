@@ -15,3 +15,4 @@ Map-Reduce: WIP
 TO-DO:
 Clean Up UI
 Error Handling for the Forms
+Need Logic for Compiling Station Data json and loading into db (currently executed by hand)

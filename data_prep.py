@@ -111,3 +111,8 @@ purchased_rides.append({"Name": "Evan",
 print(purchased_rides)
 json.dump(purchased_rides, purchased_file, indent=4)
 purchased_file.close()
+
+# add auto translation of data for station data
+# parse json file
+# count up occurances of origin station 
+# station_data = []
